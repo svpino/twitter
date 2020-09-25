@@ -1,8 +1,9 @@
 # The Twitter Archive
-This is a collection of the most relevant content I've posted on Twitter. Most of these are threads. Some are just simple tweets.
+Here is a compilation of the most relevant content I've posted on Twitter since the end of July 2020. Most of these are threads where I've tried to convey as much actionable and helpful ideas as possible. Some are just individual thoughts in the form of tweets. I pushed those to the bottom of the list.
 
 
 ## Software Engineering
+Most of my writing revolves around general topics related to Software Engineering. Although there's a ton of technical stuff here, most of these aims to offer a more holistic view of the industry, and what I think matters to software developers.
 
 * [The one about my interview process to hire Software Engineers](https://twitter.com/svpino/status/1309534720275832833?s=20).  
 *Sep 25, 2020*.
@@ -83,7 +84,11 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 *Jul 30, 2020*.
 
 
-## Artificial Intelligence and Machine Learning
+## Machine Learning
+A few years ago, I started focusing a big part of my efforts in applied Machine Learning. I'm specifically very interested in making Machine Learning applications work in real life and breaking down the walls that keep others from getting into the field.
+
+* [The one about a codelab to get started with Machine Learning](https://twitter.com/svpino/status/1309464065455132674?s=20).  
+*Sep 25, 2020*.
 
 * [The one about the problem that kicked off my interest on Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20).  
 *Sep 23, 2020*.
@@ -153,6 +158,7 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 
 
 ## Python
+I met Python in 2014, and I've never looked back. It's an incredibly versatile language with a huge, smart community backing it. How many of you can I convince to give it a try?
 
 * [The one about 10 simple programming exercises and their solutions](https://twitter.com/svpino/status/1309347657408753666?s=20).  
 *Sep 24, 2020*.
@@ -188,7 +194,8 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 *Aug 7, 2020*.
 
 
-## Not sure any of these are relevant
+## Less relevant stuff
+I still like these threads. I think they are helpful, but they aren't technical, nor do they fit in any other categories here. 
 
 * [The one with some strategies to improve the quality of the content you post on Twitter](https://twitter.com/svpino/status/1306070577841659904?s=20).  
 *Sep 15, 2020*. 
@@ -206,7 +213,8 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 *Aug 23, 2020*.  
 
 
-## Quotes and individual thoughts
+## Individual thoughts
+These aren't threads. They are individual tweets that reflect on different technical topics, but I want to keep them separate to avoid drowning the more helpful, fully-fledged content.
 
 * [The one about clean code and the relativity of things](https://twitter.com/svpino/status/1306261567369928704?s=20).  
 *Sep 16, 2020*.
@@ -315,3 +323,6 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 
 * [The one about not needing a PhD or read papers to get into Machine Learning](https://twitter.com/svpino/status/1291352861067149312?s=20).  
 *Aug 6, 2020*.
+
+* [The one about optimizing your career for the long term](https://twitter.com/svpino/status/1291022459517501440?s=20).  
+*Aug 5, 2020*.
