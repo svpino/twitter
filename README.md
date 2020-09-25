@@ -14,7 +14,7 @@ Most of my writing revolves around general topics related to Software Engineerin
 * [The one about the approach I use to be as effective as possible when working on projects](https://twitter.com/svpino/status/1307178857968087041?s=20).  
 *Sep 18, 2020*.
 
-* [The one whith 9 simple ideas to invest in your career](https://twitter.com/svpino/status/1302462025822547968?s=20).  
+* [The one with 9 simple ideas to invest in your career](https://twitter.com/svpino/status/1302462025822547968?s=20).  
 *Sep 5, 2020*.
 
 * [The one where I share a letter to ask for a raise](https://twitter.com/svpino/status/1301385935330766849?s=20).  
@@ -35,7 +35,7 @@ Most of my writing revolves around general topics related to Software Engineerin
 * [The one about reading your employment contract](https://twitter.com/svpino/status/1299693311658283009?s=20).  
 *Aug 29, 2020*.
 
-* [The one talking about two type of developers](https://twitter.com/svpino/status/1299188730729828352?s=20).  
+* [The one talking about two types of developers](https://twitter.com/svpino/status/1299188730729828352?s=20).  
 *Aug 27, 2020*.
 
 * [The one with the real conversation with the person that wants to grow their career](https://twitter.com/svpino/status/1298972475523567616?s=20).  
@@ -56,7 +56,7 @@ Most of my writing revolves around general topics related to Software Engineerin
 * [The one with the 50 sentences to become an amazing developer](https://twitter.com/svpino/status/1294494778399301632?s=20).  
 *Aug 15, 2020*.
 
-* [The one about evaluating if you are happy on your current job](https://twitter.com/svpino/status/1294016182450823169?s=20).  
+* [The one about evaluating if you are happy with your current job](https://twitter.com/svpino/status/1294016182450823169?s=20).  
 *Aug 13, 2020*.
 
 * [The one where I talk about all the problems of TDD](https://twitter.com/svpino/status/1293890835252236290?s=20).  
@@ -105,7 +105,7 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 * [The one about a codelab to get started with Machine Learning](https://twitter.com/svpino/status/1309464065455132674?s=20).  
 *Sep 25, 2020*.
 
-* [The one about the problem that kicked off my interest on Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20).  
+* [The one about the problem that kicked off my interest in Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20).  
 *Sep 23, 2020*.
 
 * [The one about the Artificial Intelligence market and salary expectations](https://twitter.com/svpino/status/1307903635075063814?s=20).  
@@ -123,7 +123,7 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 * [The one about the massive, 7-hour TensorFlow YouTube course](https://twitter.com/svpino/status/1305724878474145792?s=20).  
 *Sep 14, 2020*.
 
-* [The one about the 12 skills that you want to add to your Data Science / Machine Learning resume](https://twitter.com/svpino/status/1305365043673001989?s=20).  
+* [The one about the 12 skills you want to add to your Data Science / Machine Learning resume](https://twitter.com/svpino/status/1305365043673001989?s=20).  
 *Sep 12, 2020*.
 
 * [The one about the free course on Machine Learning from Tom Mitchel and Miria-Florina Balcan](https://twitter.com/svpino/status/1305004529096617984?s=20).  
@@ -132,7 +132,7 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 * [The one where I go over a step-by-step guide to start with Machine Learning](https://twitter.com/svpino/status/1304630248697483265?s=20).  
 *Sep 11, 2020*.
 
-* [The one where we discuss about the trade-offs for a self-driven car to stop on traffic lights](https://twitter.com/svpino/status/1304515899475591168?s=20).  
+* [The one where we discuss the trade-offs for a self-driven car to stop on traffic lights](https://twitter.com/svpino/status/1304515899475591168?s=20).  
 *Sep 11, 2020*.
 
 * [The one about understanding when we solved a Machine Learning problem](https://twitter.com/svpino/status/1304268407039315969?s=20).  
@@ -153,7 +153,7 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 * [The one where people into Machine Learning came to say hello](https://twitter.com/svpino/status/1302260448079818755).  
 *Sep 5, 2020*.
 
-* [The one where I talk about why I always recommend to get into Machine Learning](https://twitter.com/svpino/status/1302107302330335232?s=20).  
+* [The one where I talk about why I always recommend getting into Machine Learning](https://twitter.com/svpino/status/1302107302330335232?s=20).  
 *Sep 4, 2020*.
 
 * [The one with 10 different projects to get started with Computer Vision](https://twitter.com/svpino/status/1298468656725327872?s=20).  
@@ -178,7 +178,7 @@ I met Python in 2014, and I've never looked back. It's an incredibly versatile l
 * [The one about 10 simple programming exercises and their solutions](https://twitter.com/svpino/status/1309347657408753666?s=20).  
 *Sep 24, 2020*.
 
-* [The one about new features in Python 3 that you may not me using yet](https://twitter.com/svpino/status/1308632185113579522?s=20).  
+* [The one about new features in Python 3 that you may not be using yet](https://twitter.com/svpino/status/1308632185113579522?s=20).  
 *Sep 22, 2020*.
 
 * [The one about building a script to schedule Twitter threads](https://twitter.com/svpino/status/1306987084612349958?s=20).  
@@ -210,7 +210,7 @@ I met Python in 2014, and I've never looked back. It's an incredibly versatile l
 
 
 ## Less relevant stuff
-I still like these threads. I think they are helpful, but they aren't technical, nor do they fit in any other categories here. 
+I still like these threads. I think they are helpful, but they aren't technical, nor do they fit in any other category. 
 
 * [The one with some strategies to improve the quality of the content you post on Twitter](https://twitter.com/svpino/status/1306070577841659904?s=20).  
 *Sep 15, 2020*. 
@@ -218,7 +218,7 @@ I still like these threads. I think they are helpful, but they aren't technical,
 * [The one where I share my essay to get into graduate school](https://twitter.com/svpino/status/1304081950060158977?s=20).  
 *Sep 10, 2020*. 
 
-* [The one where I show my personal setup at home](https://twitter.com/svpino/status/1299547364676579328).  
+* [The one where I show my setup at home](https://twitter.com/svpino/status/1299547364676579328).  
 *Aug 28, 2020*.
 
 * [The one about standing and speaking up](https://twitter.com/svpino/status/1298831177239887873?s=20).  
@@ -327,7 +327,7 @@ These aren't threads. They are individual tweets that reflect on different techn
 * [The one about sacrificing quality not being a good trade-off](https://twitter.com/svpino/status/1291677967169531905?s=20).  
 *Aug 7, 2020*.
 
-* [The about being in control as a developer](https://twitter.com/svpino/status/1291533303749771264?s=20).  
+* [The one about being in control as a developer](https://twitter.com/svpino/status/1291533303749771264?s=20).  
 *Aug 6, 2020*.
 
 * [The one about needing people to put models into production](https://twitter.com/svpino/status/1291464017626779648?s=20).  
@@ -336,7 +336,7 @@ These aren't threads. They are individual tweets that reflect on different techn
 * [The one about not having time because you are writing bad code](https://twitter.com/svpino/status/1291450506729185280?s=20).  
 *Aug 6, 2020*.
 
-* [The one about not needing a PhD or read papers to get into Machine Learning](https://twitter.com/svpino/status/1291352861067149312?s=20).  
+* [The one about not needing a Ph.D. or read papers to get into Machine Learning](https://twitter.com/svpino/status/1291352861067149312?s=20).  
 *Aug 6, 2020*.
 
 * [The one about optimizing your career for the long term](https://twitter.com/svpino/status/1291022459517501440?s=20).  
@@ -345,5 +345,5 @@ These aren't threads. They are individual tweets that reflect on different techn
 * [The one about following the status quo](https://twitter.com/svpino/status/1290706326096576513?s=20).  
 *Aug 4, 2020*.
 
-* [The one about not needing to learn algorithms is a self-fullfilling profecy](https://twitter.com/svpino/status/1290282768715280386?s=20).  
+* [The one about not needing to learn algorithms is a self-fulfilling prophecy](https://twitter.com/svpino/status/1290282768715280386?s=20).  
 *Aug 3, 2020*.
