@@ -73,6 +73,12 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about the importance of a portfolio](https://twitter.com/svpino/status/1292786063942070272?s=20).  
 *Aug 10, 2020*.
 
+* [The one about caching](https://twitter.com/svpino/status/1291336091182804992?s=20).  
+*Aug 5, 2020*.
+
+* [The one about getting good at estimates to make money as a Software Developer](https://twitter.com/svpino/status/1291068406704345089?s=20).  
+*Aug 5, 2020*.
+
 * [The one about using pre-browsing to make your websites faster](https://twitter.com/svpino/status/1288864175045914624?s=20).  
 *Jul 30, 2020*.
 
@@ -291,3 +297,21 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 
 * [The one about agile not being a silver bullet](https://twitter.com/svpino/status/1292599466327932931?s=20).  
 *Aug 9, 2020*.
+
+* [The one about technical debt](https://twitter.com/svpino/status/1291786757218893830?s=20).  
+*Aug 7, 2020*.
+
+* [The one about sacrificing quality not being a good trade-off](https://twitter.com/svpino/status/1291677967169531905?s=20).  
+*Aug 7, 2020*.
+
+* [The about being in control as a developer](https://twitter.com/svpino/status/1291533303749771264?s=20).  
+*Aug 6, 2020*.
+
+* [The one about needing people to put models into production](https://twitter.com/svpino/status/1291464017626779648?s=20).  
+*Aug 6, 2020*.
+
+* [The one about not having time because you are writing bad code](https://twitter.com/svpino/status/1291450506729185280?s=20).  
+*Aug 6, 2020*.
+
+* [The one about not needing a PhD or read papers to get into Machine Learning](https://twitter.com/svpino/status/1291352861067149312?s=20).  
+*Aug 6, 2020*.
