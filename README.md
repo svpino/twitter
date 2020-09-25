@@ -52,6 +52,21 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about 10 side projects to improve your web development skills](https://twitter.com/svpino/status/1296648985957085190?s=20).  
 *Aug 20, 2020*.
 
+* [The one with the 50 sentences to become an amazing developer](https://twitter.com/svpino/status/1294494778399301632?s=20).  
+*Aug 15, 2020*.
+
+* [The one about evaluating if you are happy on your current job](https://twitter.com/svpino/status/1294016182450823169?s=20).  
+*Aug 13, 2020*.
+
+* [The one where I talk about all the problems of TDD](https://twitter.com/svpino/status/1293890835252236290?s=20).  
+*Aug 13, 2020*.
+
+* [The one where I talk about how to become a successful Software Engineer](https://twitter.com/svpino/status/1293680762106118144?s=20).  
+*Aug 12, 2020*.
+
+* [The one about splitting your time](https://twitter.com/svpino/status/1293511760323006464?s=20).  
+*Aug 12, 2020*.
+
 * [The one about using pre-browsing to make your websites faster](https://twitter.com/svpino/status/1288864175045914624?s=20).  
 *Jul 30, 2020*.
 
@@ -118,6 +133,9 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about 5 crazy cool Machine Learning projects I've been involved with](https://twitter.com/svpino/status/1295951164450770946?s=20).  
 *Aug 18, 2020*.
 
+* [The one about how I transitioned to the Machine Learning space](https://twitter.com/svpino/status/1294235627857248256?s=20).  
+*Aug 14, 2020*.
+
 * [The one where I go over what a day of a Machine Learning Engineer looks like](https://twitter.com/svpino/status/1293141577540538370?s=20).  
 *Aug 11, 2020*.
 
@@ -141,6 +159,9 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 
 * [The one where the Python community came to say hello](https://twitter.com/svpino/status/1295691086732636160?s=20).  
 *Aug 18, 2020*.
+
+* [The one about pandas](https://twitter.com/svpino/status/1295573742387691520?s=20).  
+*Aug 17, 2020*.
 
 * [The one talking about Python for web development (Django, Flask, and FastAPI.)](https://twitter.com/svpino/status/1295209025156587521?s=20)  
 *Aug 16, 2020*. 
@@ -232,3 +253,26 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about simplicity versus flexibility](https://twitter.com/svpino/status/1295673083630686209?s=20).  
 *Aug 18, 2020*.
 
+* [The one about starting](https://twitter.com/svpino/status/1295443300032434178?s=20).  
+*Aug 17, 2020*.
+
+* [The one about every problem being your responsibility](https://twitter.com/svpino/status/1295332409962049539?s=20).  
+*Aug 17, 2020*.
+
+* [The one about my definition of good for a career in tech](https://twitter.com/svpino/status/1295107313838129152?s=20).  
+*Aug 16, 2020*.
+
+* [The one about those working from home that are just starting their careers](https://twitter.com/svpino/status/1295045645510770691?s=20).  
+*Aug 16, 2020*.
+
+* [The one about what you know being good enough for someone else](https://twitter.com/svpino/status/1294907245726248961?s=20).  
+*Aug 16, 2020*.
+
+* [The one about having access to all the knowledge in the world](https://twitter.com/svpino/status/1294698872497938432?s=20).  
+*Aug 15, 2020*.
+
+* [The one about being original](https://twitter.com/svpino/status/1293962149153382403?s=20).  
+*Aug 13, 2020*.
+
+* [The one where you decide whether your manager sucks](https://twitter.com/svpino/status/1293487393698242561?s=20).  
+*Aug 12, 2020*.
