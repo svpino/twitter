@@ -16,14 +16,18 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one where I share my Twitter Resume](https://twitter.com/svpino/status/1306942253131276289?s=20).  
 *Sep 18, 2020*.
 
-* [The one about clean code and the relativity of things](https://twitter.com/svpino/status/1306261567369928704?s=20).  
-*Sep 16, 2020*.
+---
+About Clear Code and the relativity of things:
 
-* [The one about the shortcut to improve as a software developer](https://twitter.com/svpino/status/1305527978370228226?s=20).  
-*Sep 14, 2020*.
+It turns out that the person who is reading the code influences the outcome as much as the person who wrote it.
 
-* [The one about writing code defensively](https://twitter.com/svpino/status/1304936083751198720?s=20).  
-*Sep 12, 2020*.
+Basically, our definition of "clear" is probably very different. 
+
+Keep this in mind during your next code review.
+
+*[Sep 16, 2020](https://twitter.com/svpino/status/1306261567369928704?s=20)*.
+
+---
 
 * [The one about learning while building projects](https://twitter.com/svpino/status/1303048137976590336?s=20).  
 *Sep 7, 2020*.
@@ -31,11 +35,41 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one whith 9 simple ideas to invest in your career](https://twitter.com/svpino/status/1302462025822547968?s=20).  
 *Sep 5, 2020*.
 
+
+
+---
+Looking for a shortcut to improve as a developer? Here is one:
+
+Get close to somebody that's much better than you. Shadow that person. Ask questions. Bug the hell of them. Absorve as much as you can.
+
+Want something better? Find 2 people.
+Even better? 3 people.
+Repeat.
+
+*[Sep 14, 2020](https://twitter.com/svpino/status/1305527978370228226?s=20)*.
+
+---
+
 * [The one where I talk about focusing more on project management and less on estimates](https://twitter.com/svpino/status/1301602613272678400?s=20).  
 *Sep 3, 2020*.
 
 * [The one where I share a letter to ask for a raise](https://twitter.com/svpino/status/1301385935330766849?s=20).  
 *Sep 2, 2020*.
+
+---
+Here is my strategy to write a high-quality codebase and solve many problems before they even happen:
+
+Write defensively. 
+
+1. Think about everything that could possibly go wrong
+2. Don't trust your inputs
+3. Test ruthlessly 
+
+This is almost always cheaper than the alternative.
+
+*[Sep 12, 2020](https://twitter.com/svpino/status/1304936083751198720?s=20)*.
+
+---
 
 * [The one talking about irrelevant years of experience](https://twitter.com/svpino/status/1301271179064299520?s=20).  
 *Sep 2, 2020*.
