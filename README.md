@@ -61,6 +61,14 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about reading your employment contract](https://twitter.com/svpino/status/1299693311658283009?s=20).  
 *Aug 29, 2020*.
 
+>> One of the most fundamental things I've learned is that writing software doesn't follow a linear, deterministic trajectory.
+>> 
+>> It's chaotic and unpredictable.
+>> 
+>> This is the first hurdle that people have to face when they start coding. Conventional methods don't work here.
+>> 
+>> *Aug 29, 2020*.
+
 * [The one where I talk about 16 different soft skills for every engineer](https://twitter.com/svpino/status/1297028799897403392?s=20).  
 *Aug 21, 2020*.
 
