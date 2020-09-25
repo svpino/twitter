@@ -22,6 +22,24 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about the shortcut to improve as a software developer](https://twitter.com/svpino/status/1305527978370228226?s=20).  
 *Sep 14, 2020*.
 
+* [The one about writing code defensively](https://twitter.com/svpino/status/1304936083751198720?s=20).  
+*Sep 12, 2020*.
+
+* [The one about learning while building projects](https://twitter.com/svpino/status/1303048137976590336?s=20).  
+*Sep 7, 2020*.
+
+* [The one whith 9 simple ideas to invest in your career](https://twitter.com/svpino/status/1302462025822547968?s=20).  
+*Sep 5, 2020*.
+
+* [The one where I talk about focusing more on project management and less on estimates](https://twitter.com/svpino/status/1301602613272678400?s=20).  
+*Sep 3, 2020*.
+
+* [The one where I share a letter to ask for a raise](https://twitter.com/svpino/status/1301385935330766849?s=20).  
+*Sep 2, 2020*.
+
+* [The one talking about irrelevant years of experience](https://twitter.com/svpino/status/1301271179064299520?s=20).  
+*Sep 2, 2020*.
+
 * [The one where I talk about 16 different soft skills for every engineer](https://twitter.com/svpino/status/1297028799897403392?s=20).  
 *Aug 21, 2020*.  
 
@@ -49,8 +67,35 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about the 12 skills that you want to add to your Data Science / Machine Learning resume](https://twitter.com/svpino/status/1305365043673001989?s=20).  
 *Sep 12, 2020*.
 
+* [The one about the free course on Machine Learning from Tom Mitchel and Miria-Florina Balcan](https://twitter.com/svpino/status/1305004529096617984?s=20).  
+*Sep 12, 2020*.
+
+* [The one where I go over a step-by-step guide to start with Machine Learning](https://twitter.com/svpino/status/1304630248697483265?s=20).  
+*Sep 11, 2020*.
+
+* [The one where we discuss about the trade-offs for a self-driven car to stop on traffic lights](https://twitter.com/svpino/status/1304515899475591168?s=20).  
+*Sep 11, 2020*.
+
+* [The one about understanding when we solved a Machine Learning problem](https://twitter.com/svpino/status/1304268407039315969?s=20).  
+*Sep 10, 2020*.
+
+* [The one with 20 fundamental questions you need to ace before getting a Machine Learning job](https://twitter.com/svpino/status/1303907685214154752?s=20).  
+*Sep 9, 2020*.
+
+* [The one with the courses I took to get my Masters in Computer Science with a Machine Learning Specialization](https://twitter.com/svpino/status/1303535479929933825?s=20).  
+*Sep 8, 2020*.
+
+* [The one with 6 high-profile projects that show algorithm bias](https://twitter.com/svpino/status/1303147115779108875?s=20).  
+*Sep 7, 2020*.
+
+* [The one with the 10 most frequently asked questions to get into Machine Learning](https://twitter.com/svpino/status/1302829097106767872?s=20).  
+*Sep 6, 2020*.
+
 * [The one where people into Machine Learning came to say hello](https://twitter.com/svpino/status/1302260448079818755).  
 *Sep 5, 2020*.
+
+* [The one where I talk about why I always recommend to get into Machine Learning](https://twitter.com/svpino/status/1302107302330335232?s=20).  
+*Sep 4, 2020*.
 
 * [The one where I go over what a day of a Machine Learning Engineer looks like](https://twitter.com/svpino/status/1293141577540538370?s=20).  
 *Aug 11, 2020*.
@@ -84,6 +129,12 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 
 * [The one with some strategies to improve the quality of the content you post on Twitter](https://twitter.com/svpino/status/1306070577841659904?s=20).  
 *Sep 15, 2020*. 
+
+* [The one where I share my essay to get into graduate school](https://twitter.com/svpino/status/1304081950060158977?s=20).  
+*Sep 10, 2020*. 
+
+* [The one shamelessly promoting myself](https://twitter.com/svpino/status/1302959240219365382?s=20).  
+*Sep 7, 2020*. 
 
 * [The one with a checklist to make sure your website doesn't suck](https://twitter.com/svpino/status/1301022040388808705?s=20).  
 *Sep 1, 2020*.
