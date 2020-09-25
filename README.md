@@ -40,8 +40,32 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one talking about irrelevant years of experience](https://twitter.com/svpino/status/1301271179064299520?s=20).  
 *Sep 2, 2020*.
 
+* [The one where I talk about project management being the issue with late projects](https://twitter.com/svpino/status/1301100303215816705?s=20).  
+*Sep 2, 2020*.
+
+* [The one with a checklist to make sure your website doesn't suck](https://twitter.com/svpino/status/1301022040388808705?s=20).  
+*Sep 1, 2020*.
+
+* [The one about the mandatory step to write good code](https://twitter.com/svpino/status/1300726842337431562?s=20).  
+*Sep 1, 2020*.
+
+* [The one about the metrics to measure developers](https://twitter.com/svpino/status/1300612293684756481?s=20).  
+*Aug 31, 2020*.
+
+* [The one where I talk about pricing strategies and charging money for your skills](https://twitter.com/svpino/status/1300269619513626626?s=20).  
+*Aug 30, 2020*.
+
+* [The one about good software design](https://twitter.com/svpino/status/1299943292793163776?s=20).  
+*Aug 29, 2020*.
+
+* [The one about reading your employment contract](https://twitter.com/svpino/status/1299693311658283009?s=20).  
+*Aug 29, 2020*.
+
 * [The one where I talk about 16 different soft skills for every engineer](https://twitter.com/svpino/status/1297028799897403392?s=20).  
-*Aug 21, 2020*.  
+*Aug 21, 2020*.
+
+* [The one about using pre-browsing to make your websites faster](https://twitter.com/svpino/status/1288864175045914624?s=20).  
+*Jul 30, 2020*.
 
 
 ## Artificial Intelligence and Machine Learning
@@ -125,7 +149,7 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 *Aug 8, 2020*.  
 
 
-## Other topics
+## Other relevant topics
 
 * [The one with some strategies to improve the quality of the content you post on Twitter](https://twitter.com/svpino/status/1306070577841659904?s=20).  
 *Sep 15, 2020*. 
@@ -136,14 +160,9 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one shamelessly promoting myself](https://twitter.com/svpino/status/1302959240219365382?s=20).  
 *Sep 7, 2020*. 
 
-* [The one with a checklist to make sure your website doesn't suck](https://twitter.com/svpino/status/1301022040388808705?s=20).  
-*Sep 1, 2020*.
-
-* [The one where I talk about pricing strategies and charging money for your skills](https://twitter.com/svpino/status/1300269619513626626?s=20).  
-*Aug 30, 2020*.
+* [The one where I show my personal setup at home](https://twitter.com/svpino/status/1299547364676579328).  
+*Aug 28, 2020*.
 
 * [The one about my Twitter strategy to get 8,000+ followers in less than a month](https://twitter.com/svpino/status/1297492897798004736?s=20).  
 *Aug 23, 2020*.  
 
-* [The one about using pre-browsing to make your websites faster](https://twitter.com/svpino/status/1288864175045914624?s=20).  
-*Jul 30, 2020*.
