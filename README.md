@@ -80,6 +80,21 @@ Most of my writing revolves around general topics related to Software Engineerin
 * [The one about getting good at estimates to make money as a Software Developer](https://twitter.com/svpino/status/1291068406704345089?s=20).  
 *Aug 5, 2020*.
 
+* [The one about whether you really need to learn algorithms and data structures](https://twitter.com/svpino/status/1290631063136542721?s=20).  
+*Aug 3, 2020*.
+
+* [The one about whether you need to get a Computer Science degree](https://twitter.com/svpino/status/1290468942142636032?s=20).  
+*Aug 2, 2020*.
+
+* [The one about getting you a better salary](https://twitter.com/svpino/status/1290104738436935680?s=20).  
+*Aug 2, 2020*.
+
+* [The one about multiplying your value and advancing your career](https://twitter.com/svpino/status/1289779816233947136?s=20).  
+*Aug 2, 2020*.
+
+* [The one about negotiating a salary doing an interview](https://twitter.com/svpino/status/1289431085525295105?s=20).  
+*Aug 1, 2020*.
+
 * [The one about using pre-browsing to make your websites faster](https://twitter.com/svpino/status/1288864175045914624?s=20).  
 *Jul 30, 2020*.
 
@@ -326,3 +341,9 @@ These aren't threads. They are individual tweets that reflect on different techn
 
 * [The one about optimizing your career for the long term](https://twitter.com/svpino/status/1291022459517501440?s=20).  
 *Aug 5, 2020*.
+
+* [The one about following the status quo](https://twitter.com/svpino/status/1290706326096576513?s=20).  
+*Aug 4, 2020*.
+
+* [The one about not needing to learn algorithms is a self-fullfilling profecy](https://twitter.com/svpino/status/1290282768715280386?s=20).  
+*Aug 3, 2020*.
