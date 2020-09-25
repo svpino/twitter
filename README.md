@@ -70,6 +70,7 @@ It's chaotic and unpredictable.
 This is the first hurdle that people have to face when they start coding. Conventional methods don't work here.
 
 *[Aug 29, 2020](https://twitter.com/svpino/status/1299663084601081856?s=20)*.
+
 ---
 
 
