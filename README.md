@@ -67,6 +67,12 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one about splitting your time](https://twitter.com/svpino/status/1293511760323006464?s=20).  
 *Aug 12, 2020*.
 
+* [The one with some of the skills and tools that let me do my job](https://twitter.com/svpino/status/1293141584796700672).  
+*Aug 11, 2020*.
+
+* [The one about the importance of a portfolio](https://twitter.com/svpino/status/1292786063942070272?s=20).  
+*Aug 10, 2020*.
+
 * [The one about using pre-browsing to make your websites faster](https://twitter.com/svpino/status/1288864175045914624?s=20).  
 *Jul 30, 2020*.
 
@@ -166,8 +172,14 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 * [The one talking about Python for web development (Django, Flask, and FastAPI.)](https://twitter.com/svpino/status/1295209025156587521?s=20)  
 *Aug 16, 2020*. 
 
+* [The one with the script to clean up your Twitter feed](https://twitter.com/svpino/status/1293260942017527813?s=20).  
+*Aug 11, 2020*.
+
 * [The one about getting started with Python](https://twitter.com/svpino/status/1292085513311195137?s=20).  
-*Aug 8, 2020*.  
+*Aug 8, 2020*.
+
+* [The one about Python being a great step if you want to get into Machine Learning](https://twitter.com/svpino/status/1291713199839084544?s=20).  
+*Aug 7, 2020*.
 
 
 ## Not sure any of these are relevant
@@ -276,3 +288,6 @@ This is a collection of the most relevant content I've posted on Twitter. Most o
 
 * [The one where you decide whether your manager sucks](https://twitter.com/svpino/status/1293487393698242561?s=20).  
 *Aug 12, 2020*.
+
+* [The one about agile not being a silver bullet](https://twitter.com/svpino/status/1292599466327932931?s=20).  
+*Aug 9, 2020*.
