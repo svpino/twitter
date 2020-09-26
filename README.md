@@ -175,6 +175,9 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 ## Python
 I met Python in 2014, and I've never looked back. It's an incredibly versatile language with a huge, smart community backing it. How many of you can I convince to give it a try?
 
+* [The one about the 10 libraries and tools that I use on every project](https://twitter.com/svpino/status/1309871516339798023?s=20).  
+*Sep 26, 2020*.
+
 * [The one about 10 simple programming exercises and their solutions](https://twitter.com/svpino/status/1309347657408753666?s=20).  
 *Sep 24, 2020*.
 
