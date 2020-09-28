@@ -5,6 +5,9 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 ## Software Engineering
 Most of my writing revolves around general topics related to Software Engineering. Although there's a ton of technical stuff here, most of these aims to offer a more holistic view of the industry, and what I think matters to software developers.
 
+* [The one about a good approach to get projects done](https://twitter.com/svpino/status/1310523646104961025?s=20).  
+*Sep 28, 2020*.
+
 * [The one about my interview process to hire Software Engineers](https://twitter.com/svpino/status/1309534720275832833?s=20).  
 *Sep 25, 2020*.
 
@@ -174,6 +177,12 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 
 ## Python
 I met Python in 2014, and I've never looked back. It's an incredibly versatile language with a huge, smart community backing it. How many of you can I convince to give it a try?
+
+* [The one about virtual environments](https://twitter.com/svpino/status/1310665056544321536?s=20).  
+*Sep 28, 2020*.
+
+* [The one about 10 surprising Python features](https://twitter.com/svpino/status/1310439090073071617?s=20).  
+*Sep 28, 2020*.
 
 * [The one about the 10 libraries and tools that I use on every project](https://twitter.com/svpino/status/1309871516339798023?s=20).  
 *Sep 26, 2020*.
