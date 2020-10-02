@@ -105,6 +105,9 @@ Most of my writing revolves around general topics related to Software Engineerin
 ## Machine Learning
 A few years ago, I started focusing a big part of my efforts in applied Machine Learning. I'm specifically very interested in making Machine Learning applications work in real life and breaking down the walls that keep others from getting into the field.
 
+* [The one about everything that needs to happen after we have a model ready](https://twitter.com/svpino/status/1311895954690371584?s=20).  
+*Oct 2, 2020*.
+
 * [The one about a codelab to get started with Machine Learning](https://twitter.com/svpino/status/1309464065455132674?s=20).  
 *Sep 25, 2020*.
 
