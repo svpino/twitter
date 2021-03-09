@@ -2,6 +2,28 @@
 Here is a compilation of the most relevant content I've posted on Twitter since the end of July 2020. Most of these are threads where I've tried to convey as much actionable and helpful ideas as possible. Some are just individual thoughts in the form of tweets. I pushed those to the bottom of the list.
 
 
+* [Metrics and imbalanced classification problems](https://twitter.com/svpino/status/1357302018428256258?s=20) — An explanation about three of the most important metrics we use: **accuracy**, **precision**, and **recall**. More specifically, this thread shows what happens when we focus on the **wrong metric** using an **imbalanced classification problem**.
+
+* [An intuitive look into convolutions](https://twitter.com/svpino/status/1359107240519749637?s=20) — My attempt to introduce how **Convolutional Neural Networks** work. Well, in reality, this is specifically about **convolutions**. I love the idea of finding ways to relate convolutions to software development to make it more intuitive.
+
+* [Generalization and neural networks](https://twitter.com/svpino/status/1360462217829900290?s=20) — After going through **convolutions**, this thread explains **how neural networks generalize**. There are many pictures of bunnies involved, but I really liked the storyline to explain things as simply as possible.
+
+* [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
+
+* [Introduction to Siamese Networks](https://twitter.com/svpino/status/1365683368030052355?s=20) — If you've heard about **one/few-shot learning** before but aren't sure exactly what it is, this is a good introduction to it. Specifically, this thread talks about **Siamese Networks** and how they work.
+
+* [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
+
+* [Everything you need to know about the batch size](https://twitter.com/svpino/status/1358286876822679552?s=20) — When using **Gradient Descent**, the **batch size** is one of the most consequential hyperparameters at our disposal. This thread explains everything you need to know about the batch size.
+ 
+* [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — **Encoding features** from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This thread covers **Label** and **One-Hot encoding**, how they work and how to use them.
+ 
+* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
+ 
+* [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we **split** our datasets into **different subsets** right before running our machine learning algorithms. This thread is an explanation of why we do that. What's the goal of each subset, and how to use them.
+ 
+
+
 ## Software Engineering
 Most of my writing revolves around general topics related to Software Engineering. Although there's a ton of technical stuff here, most of these aims to offer a more holistic view of the industry, and what I think matters to software developers.
 
