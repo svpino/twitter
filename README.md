@@ -23,6 +23,10 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we **split** our datasets into **different subsets** right before running our machine learning algorithms. This thread is an explanation of why we do that. What's the goal of each subset, and how to use them.
  
 
+## Real-world experiences
+
+* [A classification problem that turns ugly quickly](https://twitter.com/svpino/status/1369673069955080204?s=20) — Let's imagine a system where you submit a bunch of pictures of an object, and it recommends a price range in which the object could be sold. To identify the object, we could build a classification model. It turns out, however, that things can get complex really quick.
+
 
 ## Software Engineering
 Most of my writing revolves around general topics related to Software Engineering. Although there's a ton of technical stuff here, most of these aims to offer a more holistic view of the industry, and what I think matters to software developers.
