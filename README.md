@@ -2,25 +2,30 @@
 Here is a compilation of the most relevant content I've posted on Twitter since the end of July 2020. Most of these are threads where I've tried to convey as much actionable and helpful ideas as possible. Some are just individual thoughts in the form of tweets. I pushed those to the bottom of the list.
 
 
-* [Metrics and imbalanced classification problems](https://twitter.com/svpino/status/1357302018428256258?s=20) — An explanation about three of the most important metrics we use: **accuracy**, **precision**, and **recall**. More specifically, this thread shows what happens when we focus on the **wrong metric** using an **imbalanced classification problem**.
-
 * [An intuitive look into convolutions](https://twitter.com/svpino/status/1359107240519749637?s=20) — My attempt to introduce how **Convolutional Neural Networks** work. Well, in reality, this is specifically about **convolutions**. I love the idea of finding ways to relate convolutions to software development to make it more intuitive.
 
 * [Generalization and neural networks](https://twitter.com/svpino/status/1360462217829900290?s=20) — After going through **convolutions**, this thread explains **how neural networks generalize**. There are many pictures of bunnies involved, but I really liked the storyline to explain things as simply as possible.
 
+* [Metrics and imbalanced classification problems](https://twitter.com/svpino/status/1357302018428256258?s=20) — An explanation about three of the most important metrics we use: **accuracy**, **precision**, and **recall**. More specifically, this thread shows what happens when we focus on the **wrong metric** using an **imbalanced classification problem**.
+
+* [Everything you need to know about the batch size](https://twitter.com/svpino/status/1358286876822679552?s=20) — When using **Gradient Descent**, the **batch size** is one of the most consequential hyperparameters at our disposal. This thread explains everything you need to know about the batch size.
+
+* [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we **split** our datasets into **different subsets** right before running our machine learning algorithms. This thread is an explanation of why we do that. What's the goal of each subset, and how to use them.
+
+* [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — **Encoding features** from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This thread covers **Label** and **One-Hot encoding**, how they work and how to use them.
+ 
 * [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
 
 * [Introduction to Siamese Networks](https://twitter.com/svpino/status/1365683368030052355?s=20) — If you've heard about **one/few-shot learning** before but aren't sure exactly what it is, this is a good introduction to it. Specifically, this thread talks about **Siamese Networks** and how they work.
 
-* [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
+* [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model and progressively use mo
 
-* [Everything you need to know about the batch size](https://twitter.com/svpino/status/1358286876822679552?s=20) — When using **Gradient Descent**, the **batch size** is one of the most consequential hyperparameters at our disposal. This thread explains everything you need to know about the batch size.
- 
-* [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — **Encoding features** from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This thread covers **Label** and **One-Hot encoding**, how they work and how to use them.
- 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
- 
-* [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we **split** our datasets into **different subsets** right before running our machine learning algorithms. This thread is an explanation of why we do that. What's the goal of each subset, and how to use them.
+
+
+## Examples
+
+* [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
  
 
 ## Real-world experiences
@@ -131,17 +136,8 @@ Most of my writing revolves around general topics related to Software Engineerin
 ## Machine Learning
 A few years ago, I started focusing a big part of my efforts in applied Machine Learning. I'm specifically very interested in making Machine Learning applications work in real life and breaking down the walls that keep others from getting into the field.
 
-* [The one about everything that needs to happen after we have a model ready](https://twitter.com/svpino/status/1311895954690371584?s=20).  
-*Oct 2, 2020*.
-
-* [The one about a codelab to get started with Machine Learning](https://twitter.com/svpino/status/1309464065455132674?s=20).  
-*Sep 25, 2020*.
-
-* [The one about the problem that kicked off my interest in Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20).  
+* [The one about the problem that kicked off my interest in Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20). 
 *Sep 23, 2020*.
-
-* [The one about the Artificial Intelligence market and salary expectations](https://twitter.com/svpino/status/1307903635075063814?s=20).  
-*Sep 20, 2020*.
 
 * [The one about multiplying numbers using a neural network](https://twitter.com/svpino/status/1306868813363781632?s=20).  
 *Sep 18, 2020*.
@@ -149,19 +145,10 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 * [The one where I mention that Machine Learning is usually not the right approach](https://twitter.com/svpino/status/1305891627248963584?s=20).  
 *Sep 15, 2020*.
 
-* [The one about the massive, 7-hour TensorFlow YouTube course](https://twitter.com/svpino/status/1305724878474145792?s=20).  
-*Sep 14, 2020*.
-
 * [The one about the 12 skills you want to add to your Data Science / Machine Learning resume](https://twitter.com/svpino/status/1305365043673001989?s=20).  
 *Sep 12, 2020*.
 
-* [The one about the free course on Machine Learning from Tom Mitchel and Miria-Florina Balcan](https://twitter.com/svpino/status/1305004529096617984?s=20).  
-*Sep 12, 2020*.
-
 * [The one where I go over a step-by-step guide to start with Machine Learning](https://twitter.com/svpino/status/1304630248697483265?s=20).  
-*Sep 11, 2020*.
-
-* [The one where we discuss the trade-offs for a self-driven car to stop on traffic lights](https://twitter.com/svpino/status/1304515899475591168?s=20).  
 *Sep 11, 2020*.
 
 * [The one about understanding when we solved a Machine Learning problem](https://twitter.com/svpino/status/1304268407039315969?s=20).  
