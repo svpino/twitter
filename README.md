@@ -146,9 +146,6 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 * [The one about multiplying numbers using a neural network](https://twitter.com/svpino/status/1306868813363781632?s=20).  
 *Sep 18, 2020*.
 
-* [The one about what you need to get into the Machine Learning field](https://twitter.com/svpino/status/1306593757677187072?s=20).  
-*Sep 17, 2020*.
-
 * [The one where I mention that Machine Learning is usually not the right approach](https://twitter.com/svpino/status/1305891627248963584?s=20).  
 *Sep 15, 2020*.
 
