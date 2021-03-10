@@ -18,7 +18,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Introduction to Siamese Networks](https://twitter.com/svpino/status/1365683368030052355?s=20) — If you've heard about **one/few-shot learning** before but aren't sure exactly what it is, this is a good introduction to it. Specifically, this thread talks about **Siamese Networks** and how they work.
 
-* [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model and progressively use mo
+* [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model as we progressively increase the dataset size. This will allow us to determine whether we are overfitting or underfitting.
 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
 
