@@ -22,6 +22,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
 
+* [Baseline models](https://twitter.com/svpino/status/1369975138834395145?s=20) — Before you start building a machine learning model, create three baselines that will guide your progress and help you understand the problem and where you are headed right away.
+
 
 ## Examples
 
