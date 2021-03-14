@@ -24,6 +24,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Baseline models](https://twitter.com/svpino/status/1369975138834395145?s=20) — Before you start building a machine learning model, a good approach to guide your progress is to create 3 **baselines** that will help you understand the problem and where you are headed.
 
+* [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
 
 ## Examples
 
