@@ -26,6 +26,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
 
+* [Overfitting to the validation set](https://twitter.com/svpino/status/1371433872869711872?s=20) — Every time you use your validation set, you are slowing overfitting your model to it. Here is an explanation of what happens.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
