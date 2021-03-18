@@ -28,6 +28,9 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Overfitting to the validation set](https://twitter.com/svpino/status/1371433872869711872?s=20) — Every time you use your validation set, you are slowing overfitting your model to it. Here is an explanation of what happens.
 
+* [Transfer learning](https://twitter.com/svpino/status/1372532791922069511?s=20) — The ability to reuse the knowledge of one model and adapt it to solve a different problem is one of the most consequential breakthroughs in machine learning. This is a thread explaining Transfer learning and how we can use it in practice.
+
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
