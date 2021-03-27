@@ -32,6 +32,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Why do we use ReLU in deep learning?](https://twitter.com/svpino/status/1374086498455330819?s=20) — A quick summary of the reasons we prefer to use ReLU as the activation function when using deep learning instead of Sigmoid or TanH. 
 
+* [A few ideas you can solve using KNN](https://twitter.com/svpino/status/1375813074054230016?s=20) — KNN (K-Nearest Neighbors) is a great way for software developers to start with machine learning. This thread lists five different areas where KNN could help.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
