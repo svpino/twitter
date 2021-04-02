@@ -12,6 +12,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we **split** our datasets into **different subsets** right before running our machine learning algorithms. This thread is an explanation of why we do that. What's the goal of each subset, and how to use them.
 
+* [Splitting your data migh be problematic](https://twitter.com/svpino/status/1377975882179039232?s=20) — Splitting your data by using a percentage may be a problem and you may be giving your models an unfair advantage.
+
 * [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — **Encoding features** from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This thread covers **Label** and **One-Hot encoding**, how they work and how to use them.
  
 * [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
