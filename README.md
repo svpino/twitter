@@ -38,6 +38,9 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [A few ideas you can solve using KNN](https://twitter.com/svpino/status/1375813074054230016?s=20) — KNN (K-Nearest Neighbors) is a great way for software developers to start with machine learning. This thread lists five different areas where KNN could help.
 
+* [25 True|False questions](https://twitter.com/svpino/status/1378340070709690372?s=20)
+
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
