@@ -40,6 +40,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [25 True|False questions](https://twitter.com/svpino/status/1378340070709690372?s=20)
 
+* [Strategies to start with machine learning at your company](https://twitter.com/svpino/status/1379013206371397633?s=20) - Many people who want to start with machine learning think they can't do it at their current company. But more often than not, this is not the case. This is a thread about things you can do to get past this.
 
 ## Examples
 
