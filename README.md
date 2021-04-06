@@ -42,6 +42,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Strategies to start with machine learning at your company](https://twitter.com/svpino/status/1379013206371397633?s=20) - Many people who want to start with machine learning think they can't do it at their current company. But more often than not, this is not the case. This is a thread about things you can do to get past this.
 
+* [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system, so this thread covers the core components of it.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
