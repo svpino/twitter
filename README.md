@@ -46,6 +46,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [11 key machine learning concepts](https://twitter.com/svpino/status/1342711745475973125?s=20)
 
+* [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20)
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
