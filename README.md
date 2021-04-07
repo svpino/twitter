@@ -44,6 +44,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system, so this thread covers the core components of it.
 
+* [11 key machine learning concepts](https://twitter.com/svpino/status/1342711745475973125?s=20)
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
