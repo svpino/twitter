@@ -46,13 +46,13 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 ## Probabilities and Statistics
 
-* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20). The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
+* [An introduction to the basic principles of probabilities](https://twitter.com/svpino/status/1435166402730672134?s=20). If you want to become a better gambler, you need to learn probabilities. Let's talk about the basic principles of probabilities that you need to understand.
 
 * [Probabilities in a continuous context](https://twitter.com/svpino/status/1438065219448803328?s=20). Imagine I tell you this: _"The probability of a particular event happening is zero."_ Contrary to what you may think, this doesn't mean that this event is impossible. In other words, events with 0 probability could still happen! This seems contradictory. What's going on here?
 
-* [An introduction to the basic principles of probabilities](https://twitter.com/svpino/status/1435166402730672134?s=20). If you want to become a better gambler, you need to learn probabilities. Let's talk about the basic principles of probabilities that you need to understand.
-
 * [De Méré's Paradox](https://twitter.com/svpino/status/1435890900895473670?s=20). Antoine was born in France back in 1607. Despite not being a nobleman, he called himself "Chevalier De Méré," and spent his days as any other writer and philosopher at the time. But the Chevalier liked gambling, and was obsessed with the probabilities surrounding the game.
+
+* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20). The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
 
 ## Machine Learning Techniques
 
