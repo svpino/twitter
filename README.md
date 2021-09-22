@@ -115,9 +115,6 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 * [The one about the problem that kicked off my interest in Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20). 
 *Sep 23, 2020*.
 
-* [The one about multiplying numbers using a neural network](https://twitter.com/svpino/status/1306868813363781632?s=20).  
-*Sep 18, 2020*.
-
 * [The one where I mention that Machine Learning is usually not the right approach](https://twitter.com/svpino/status/1305891627248963584?s=20).  
 *Sep 15, 2020*.
 
@@ -126,9 +123,6 @@ A few years ago, I started focusing a big part of my efforts in applied Machine 
 
 * [The one with 6 high-profile projects that show algorithm bias](https://twitter.com/svpino/status/1303147115779108875?s=20).  
 *Sep 7, 2020*.
-
-* [The one where people into Machine Learning came to say hello](https://twitter.com/svpino/status/1302260448079818755).  
-*Sep 5, 2020*.
 
 * [The one about pursuing the "right" solution](https://twitter.com/svpino/status/1296185645673656321?s=20).  
 *Aug 19, 2020*.
@@ -269,9 +263,6 @@ I met Python in 2014, and I've never looked back. It's an incredibly versatile l
 
 * [The one where I built the most outrageous giveaway selection process](https://twitter.com/svpino/status/1296280410343825408?s=20).  
 *Aug 19, 2020*.
-
-* [The one where the Python community came to say hello](https://twitter.com/svpino/status/1295691086732636160?s=20).  
-*Aug 18, 2020*.
 
 * [The one about pandas](https://twitter.com/svpino/status/1295573742387691520?s=20).  
 *Aug 17, 2020*.
