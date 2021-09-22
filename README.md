@@ -38,8 +38,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Takeaways about starting with machine learning](https://twitter.com/svpino/status/1379809571254976516?s=20) — 16 key takeaways about starting a career as a machine learning engineer.
 
-* [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20)
-
 * [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20). I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
 
 ## Probabilities and Statistics
@@ -55,6 +53,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 ## Mathematics
 
 * [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20). I told everyone that I didn't care. _"Screw math! I've never been great with it, so I'm not starting with machine learning to fail at the end."_ That was many years ago. Math is still hard, but I don't think you should be scared at all. Here is why.
+
+* [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20). If you are looking to get a background in math before starting with machine learning, here is all the material you need covering the following topics: _Probabilities & Statistics_, _Linear Algebra_, and _Multivariate Calculus_. More than enough to get started.
 
 ## Machine Learning Techniques
 
@@ -75,9 +75,11 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
  
 
-## Real-world experiences
+## Machine learning in the real world
 
 * [A classification problem that turns ugly quickly](https://twitter.com/svpino/status/1369673069955080204?s=20) — Let's imagine a system where you submit a bunch of pictures of an object, and it recommends a price range in which the object could be sold. To identify the object, we could build a classification model. It turns out, however, that things can get complex really quick.
+
+* [How to build a portfolio when looking for a job?](https://twitter.com/svpino/status/1440270119247048711?s=20). One issue I see with people applying for a job: They struggle to highlight their experience in an effective way. If you are trying to get a job as a Data Scientist or Machine Learning Engineer, here is something you can do.
 
 
 ## Software Engineering
