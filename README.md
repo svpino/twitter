@@ -16,10 +16,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — **Encoding features** from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This thread covers **Label** and **One-Hot encoding**, how they work and how to use them.
  
-* [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
-
-* [Introduction to Siamese Networks](https://twitter.com/svpino/status/1365683368030052355?s=20) — If you've heard about **one/few-shot learning** before but aren't sure exactly what it is, this is a good introduction to it. Specifically, this thread talks about **Siamese Networks** and how they work.
-
 * [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model as we progressively increase the dataset size. This will allow us to determine whether we are overfitting or underfitting.
 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
@@ -29,10 +25,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
 
 * [Overfitting to the validation set](https://twitter.com/svpino/status/1371433872869711872?s=20) — Every time you use your validation set, you are slowing overfitting your model to it. Here is an explanation of what happens.
-
-* [Transfer learning](https://twitter.com/svpino/status/1372532791922069511?s=20) — The ability to reuse the knowledge of one model and adapt it to solve a different problem is one of the most consequential breakthroughs in machine learning. This is a thread explaining Transfer learning and how we can use it in practice.
-
-* [Steps to do Transfer Learning](https://twitter.com/svpino/status/1376543596954984448?s=20) — This is the general approach I follow to do Transfer Learning.
 
 * [Why do we use ReLU in deep learning?](https://twitter.com/svpino/status/1374086498455330819?s=20) — A quick summary of the reasons we prefer to use ReLU as the activation function when using deep learning instead of Sigmoid or TanH. 
 
@@ -52,9 +44,21 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20)
 
+* [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20). I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
+
+## Machine Learning Techniques
+
+* [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
+
+* [Introduction to Siamese Networks](https://twitter.com/svpino/status/1365683368030052355?s=20) — If you've heard about **one/few-shot learning** before but aren't sure exactly what it is, this is a good introduction to it. Specifically, this thread talks about **Siamese Networks** and how they work.
+
+* [Transfer learning](https://twitter.com/svpino/status/1372532791922069511?s=20) — The ability to reuse the knowledge of one model and adapt it to solve a different problem is one of the most consequential breakthroughs in machine learning. This is a thread explaining Transfer learning and how we can use it in practice.
+
+* [Steps to do Transfer Learning](https://twitter.com/svpino/status/1376543596954984448?s=20) — This is the general approach I follow to do Transfer Learning.
+
 * [Autoencoders](https://twitter.com/svpino/status/1381253209163988998?s=20). A lot in machine learning is pretty dry and boring, but understanding how autoencoders work feels different. This is a thread about autoencoders, things they can do, and a pretty cool example.
 
-* [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20). I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
+
 
 ## Examples
 
