@@ -46,7 +46,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 ## Probabilities and Statistics
 
-* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
+* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20). The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
 
 * [Probabilities in a continuous context](https://twitter.com/svpino/status/1438065219448803328?s=20). Imagine I tell you this: "The probability of a particular event happening is zero." Contrary to what you may think, this doesn't mean that this event is impossible. In other words, events with 0 probability could still happen! This seems contradictory. What's going on here?
 
