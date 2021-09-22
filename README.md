@@ -42,19 +42,19 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 ## Probabilities and Statistics
 
-* [An introduction to the basic principles of probabilities](https://twitter.com/svpino/status/1435166402730672134?s=20). If you want to become a better gambler, you need to learn probabilities. Let's talk about the basic principles of probabilities that you need to understand.
+* [An introduction to the basic principles of probabilities](https://twitter.com/svpino/status/1435166402730672134?s=20) — If you want to become a better gambler, you need to learn probabilities. Let's talk about the basic principles of probabilities that you need to understand.
 
-* [Probabilities in a continuous context](https://twitter.com/svpino/status/1438065219448803328?s=20). Imagine I tell you this: _"The probability of a particular event happening is zero."_ Contrary to what you may think, this doesn't mean that this event is impossible. In other words, events with 0 probability could still happen! This seems contradictory. What's going on here?
+* [Probabilities in a continuous context](https://twitter.com/svpino/status/1438065219448803328?s=20) — Imagine I tell you this: _"The probability of a particular event happening is zero."_ Contrary to what you may think, this doesn't mean that this event is impossible. In other words, events with 0 probability could still happen! This seems contradictory. What's going on here?
 
-* [De Méré's Paradox](https://twitter.com/svpino/status/1435890900895473670?s=20). Antoine was born in France back in 1607. Despite not being a nobleman, he called himself "Chevalier De Méré," and spent his days as any other writer and philosopher at the time. But the Chevalier liked gambling, and was obsessed with the probabilities surrounding the game.
+* [De Méré's Paradox](https://twitter.com/svpino/status/1435890900895473670?s=20) — Antoine was born in France back in 1607. Despite not being a nobleman, he called himself "Chevalier De Méré," and spent his days as any other writer and philosopher at the time. But the Chevalier liked gambling, and was obsessed with the probabilities surrounding the game.
 
-* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20). The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
+* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20) — The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
 
 ## Mathematics
 
-* [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20). I told everyone that I didn't care. _"Screw math! I've never been great with it, so I'm not starting with machine learning to fail at the end."_ That was many years ago. Math is still hard, but I don't think you should be scared at all. Here is why.
+* [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20) — I told everyone that I didn't care. _"Screw math! I've never been great with it, so I'm not starting with machine learning to fail at the end."_ That was many years ago. Math is still hard, but I don't think you should be scared at all. Here is why.
 
-* [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20). If you are looking to get a background in math before starting with machine learning, here is all the material you need covering the following topics: _Probabilities & Statistics_, _Linear Algebra_, and _Multivariate Calculus_. More than enough to get started.
+* [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20) — If you are looking to get a background in math before starting with machine learning, here is all the material you need covering the following topics: _Probabilities & Statistics_, _Linear Algebra_, and _Multivariate Calculus_. More than enough to get started.
 
 ## Machine learning techniques
 
@@ -79,7 +79,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [A classification problem that turns ugly quickly](https://twitter.com/svpino/status/1369673069955080204?s=20) — Let's imagine a system where you submit a bunch of pictures of an object, and it recommends a price range in which the object could be sold. To identify the object, we could build a classification model. It turns out, however, that things can get complex really quick.
 
-* [How to build a portfolio when looking for a job?](https://twitter.com/svpino/status/1440270119247048711?s=20). One issue I see with people applying for a job: They struggle to highlight their experience in an effective way. If you are trying to get a job as a Data Scientist or Machine Learning Engineer, here is something you can do.
+* [How to build a portfolio when looking for a job?](https://twitter.com/svpino/status/1440270119247048711?s=20) — One issue I see with people applying for a job: They struggle to highlight their experience in an effective way. If you are trying to get a job as a Data Scientist or Machine Learning Engineer, here is something you can do.
 
 
 ## Software Engineering
