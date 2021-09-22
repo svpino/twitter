@@ -18,8 +18,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
  
 * [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model as we progressively increase the dataset size. This will allow us to determine whether we are overfitting or underfitting.
 
-* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
-
 * [Baseline models](https://twitter.com/svpino/status/1369975138834395145?s=20) — Before you start building a machine learning model, a good approach to guide your progress is to create 3 **baselines** that will help you understand the problem and where you are headed.
 
 * [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
@@ -45,6 +43,14 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20)
 
 * [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20). I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
+
+## Probabilities and Statistics
+
+* [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1362354925548810241?s=20) — **Bayes' theorem** is very useful, but I didn't want to make it boring so that this thread will introduce it through an excellent little (surprising) problem. And after you read it, you'll want to use it at your next dinner party.
+
+* [Probabilities in a continuous context](https://twitter.com/svpino/status/1438065219448803328?s=20). Imagine I tell you this: "The probability of a particular event happening is zero." Contrary to what you may think, this doesn't mean that this event is impossible. In other words, events with 0 probability could still happen! This seems contradictory. What's going on here?
+
+* [An introduction to the basic principles of probabilities](https://twitter.com/svpino/status/1435166402730672134?s=20). If you want to become a better gambler, you need to learn probabilities. Let's talk about the basic principles of probabilities that you need to understand.
 
 ## Machine Learning Techniques
 
