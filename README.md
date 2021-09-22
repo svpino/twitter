@@ -52,6 +52,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [An introduction to the basic principles of probabilities](https://twitter.com/svpino/status/1435166402730672134?s=20). If you want to become a better gambler, you need to learn probabilities. Let's talk about the basic principles of probabilities that you need to understand.
 
+* [De Méré's Paradox](https://twitter.com/svpino/status/1435890900895473670?s=20). Antoine was born in France back in 1607. Despite not being a nobleman, he called himself "Chevalier De Méré," and spent his days as any other writer and philosopher at the time. But the Chevalier liked gambling, and was obsessed with the probabilities surrounding the game.
+
 ## Machine Learning Techniques
 
 * [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
