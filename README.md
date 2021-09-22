@@ -30,15 +30,19 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [25 True|False questions](https://twitter.com/svpino/status/1378340070709690372?s=20)
 
-* [Strategies to start with machine learning at your company](https://twitter.com/svpino/status/1379013206371397633?s=20) - Many people who want to start with machine learning think they can't do it at their current company. But more often than not, this is not the case. This is a thread about things you can do to get past this.
-
 * [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system, so this thread covers the core components of it.
 
 * [11 key machine learning concepts](https://twitter.com/svpino/status/1342711745475973125?s=20)
 
-* [Takeaways about starting with machine learning](https://twitter.com/svpino/status/1379809571254976516?s=20) — 16 key takeaways about starting a career as a machine learning engineer.
-
 * [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20). I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
+
+
+## Mathematics
+
+* [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20) — I told everyone that I didn't care. _"Screw math! I've never been great with it, so I'm not starting with machine learning to fail at the end."_ That was many years ago. Math is still hard, but I don't think you should be scared at all. Here is why.
+
+* [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20) — If you are looking to get a background in math before starting with machine learning, here is all the material you need covering the following topics: _Probabilities & Statistics_, _Linear Algebra_, and _Multivariate Calculus_. More than enough to get started.
+
 
 ## Probabilities and Statistics
 
@@ -50,11 +54,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20) — The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
 
-## Mathematics
-
-* [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20) — I told everyone that I didn't care. _"Screw math! I've never been great with it, so I'm not starting with machine learning to fail at the end."_ That was many years ago. Math is still hard, but I don't think you should be scared at all. Here is why.
-
-* [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20) — If you are looking to get a background in math before starting with machine learning, here is all the material you need covering the following topics: _Probabilities & Statistics_, _Linear Algebra_, and _Multivariate Calculus_. More than enough to get started.
 
 ## Machine learning techniques
 
@@ -69,17 +68,78 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Autoencoders](https://twitter.com/svpino/status/1381253209163988998?s=20). A lot in machine learning is pretty dry and boring, but understanding how autoencoders work feels different. This is a thread about autoencoders, things they can do, and a pretty cool example.
 
 
+## Building a machine learning career
 
-## Examples
+* [This is why you want to get into machine learning](https://twitter.com/svpino/status/1302107301424369664?s=20) — One of the best steps I’ve taken as a Software Engineer has been to get into machine learning. If you are looking for what's next in your career, here are some pointers to get you started
 
-* [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
- 
+* [Takeaways about starting with machine learning](https://twitter.com/svpino/status/1379809571254976516?s=20) — 16 key takeaways about starting a career as a machine learning engineer.
+
+* [12 skills for data scientists and machine learning professionals](https://twitter.com/svpino/status/1305365043673001989?s=20) — Here are 12 skills that you wanna add to your Data Science/Machine Learning resume. The first 6 are foundational and important. The other 6 are in crazy high demand, harder to build, and will set you apart.
+
+* [Strategies to start with machine learning at your company](https://twitter.com/svpino/status/1379013206371397633?s=20) — Many people who want to start with machine learning think they can't do it at their current company. But more often than not, this is not the case. These are things you can do to get past this.
+
+* [A step-by-step guide to start with machine learning](https://twitter.com/svpino/status/1304630248697483265?s=20) — A step-by-step guide to getting started with machine learning for beginners looking to get on it right away.
+
+* [10 most frequently asked questions to get into machine learning](https://twitter.com/svpino/status/1302829097106767872?s=20). I always get asked a ton of questions about machine learning. I decided to build a short FAQ to help you move forward. Here are my answers to the 10 most frequently asked questions about getting into machine learning.
+
+* [The one with the courses I took to get my Masters in Computer Science with a Machine Learning Specialization](https://twitter.com/svpino/status/1303535479929933825?s=20) — It took me 4 years to complete my Master's while I was working full time (2015 - 2019). It's a Master of Science in Computer Science with a Machine Learning Specialization. Here are all courses I had to complete to finish the program.
+
+
+## Questions and projects
+
+* [10 Computer Vision project ideas](https://twitter.com/svpino/status/1298468656725327872?s=20) — Do you wanna start getting your hands dirty with machine learning and Computer Vision? Here you have 10 projects to start practicing and improve your portfolio.
+
+* [20 fundamental questions you need to ace](https://twitter.com/svpino/status/1303907685214154752?s=20) — Here are 20 fundamental questions that you need to ace before getting a machine learning job. Almost every company will ask these to weed out non-prepared candidates. You don't want to show up unless you are comfortable having a discussion about all of these.  
+
+* [How to build a portfolio when looking for a job?](https://twitter.com/svpino/status/1440270119247048711?s=20) — One issue I see with people applying for a job: They struggle to highlight their experience in an effective way. If you are trying to get a job as a Data Scientist or Machine Learning Engineer, here is something you can do.
+
 
 ## Machine learning in the real world
 
 * [A classification problem that turns ugly quickly](https://twitter.com/svpino/status/1369673069955080204?s=20) — Let's imagine a system where you submit a bunch of pictures of an object, and it recommends a price range in which the object could be sold. To identify the object, we could build a classification model. It turns out, however, that things can get complex really quick.
 
-* [How to build a portfolio when looking for a job?](https://twitter.com/svpino/status/1440270119247048711?s=20) — One issue I see with people applying for a job: They struggle to highlight their experience in an effective way. If you are trying to get a job as a Data Scientist or Machine Learning Engineer, here is something you can do.
+* [A day in the life of a Machine Learning Engineer](https://twitter.com/svpino/status/1293141577540538370?s=20) — Do you want to know what a day in the life of a Machine Learning Engineer looks like? I'm not gonna make this boring and talk about biking, coffee, or hipster stuff. Instead, I'll list some of the things that you may find yourself doing.
+
+
+## Examples
+
+* [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
+ 
+----
+----
+----
+----
+## Machine Learning
+A few years ago, I started focusing a big part of my efforts in applied Machine Learning. I'm specifically very interested in making Machine Learning applications work in real life and breaking down the walls that keep others from getting into the field.
+
+* [The one about the problem that kicked off my interest in Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20). 
+*Sep 23, 2020*.
+
+* [The one about multiplying numbers using a neural network](https://twitter.com/svpino/status/1306868813363781632?s=20).  
+*Sep 18, 2020*.
+
+* [The one where I mention that Machine Learning is usually not the right approach](https://twitter.com/svpino/status/1305891627248963584?s=20).  
+*Sep 15, 2020*.
+
+* [The one about understanding when we solved a Machine Learning problem](https://twitter.com/svpino/status/1304268407039315969?s=20).  
+*Sep 10, 2020*.
+
+* [The one with 6 high-profile projects that show algorithm bias](https://twitter.com/svpino/status/1303147115779108875?s=20).  
+*Sep 7, 2020*.
+
+* [The one where people into Machine Learning came to say hello](https://twitter.com/svpino/status/1302260448079818755).  
+*Sep 5, 2020*.
+
+* [The one about pursuing the "right" solution](https://twitter.com/svpino/status/1296185645673656321?s=20).  
+*Aug 19, 2020*.
+
+* [The one about 5 crazy cool Machine Learning projects I've been involved with](https://twitter.com/svpino/status/1295951164450770946?s=20).  
+*Aug 18, 2020*.
+
+* [The one about how I transitioned to the Machine Learning space](https://twitter.com/svpino/status/1294235627857248256?s=20).  
+*Aug 14, 2020*.
+
+
 
 
 ## Software Engineering
@@ -181,60 +241,6 @@ Most of my writing revolves around general topics related to Software Engineerin
 * [The one about using pre-browsing to make your websites faster](https://twitter.com/svpino/status/1288864175045914624?s=20).  
 *Jul 30, 2020*.
 
-
-## Machine Learning
-A few years ago, I started focusing a big part of my efforts in applied Machine Learning. I'm specifically very interested in making Machine Learning applications work in real life and breaking down the walls that keep others from getting into the field.
-
-* [The one about the problem that kicked off my interest in Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20). 
-*Sep 23, 2020*.
-
-* [The one about multiplying numbers using a neural network](https://twitter.com/svpino/status/1306868813363781632?s=20).  
-*Sep 18, 2020*.
-
-* [The one where I mention that Machine Learning is usually not the right approach](https://twitter.com/svpino/status/1305891627248963584?s=20).  
-*Sep 15, 2020*.
-
-* [The one about the 12 skills you want to add to your Data Science / Machine Learning resume](https://twitter.com/svpino/status/1305365043673001989?s=20).  
-*Sep 12, 2020*.
-
-* [The one where I go over a step-by-step guide to start with Machine Learning](https://twitter.com/svpino/status/1304630248697483265?s=20).  
-*Sep 11, 2020*.
-
-* [The one about understanding when we solved a Machine Learning problem](https://twitter.com/svpino/status/1304268407039315969?s=20).  
-*Sep 10, 2020*.
-
-* [The one with 20 fundamental questions you need to ace before getting a Machine Learning job](https://twitter.com/svpino/status/1303907685214154752?s=20).  
-*Sep 9, 2020*.
-
-* [The one with the courses I took to get my Masters in Computer Science with a Machine Learning Specialization](https://twitter.com/svpino/status/1303535479929933825?s=20).  
-*Sep 8, 2020*.
-
-* [The one with 6 high-profile projects that show algorithm bias](https://twitter.com/svpino/status/1303147115779108875?s=20).  
-*Sep 7, 2020*.
-
-* [The one with the 10 most frequently asked questions to get into Machine Learning](https://twitter.com/svpino/status/1302829097106767872?s=20).  
-*Sep 6, 2020*.
-
-* [The one where people into Machine Learning came to say hello](https://twitter.com/svpino/status/1302260448079818755).  
-*Sep 5, 2020*.
-
-* [The one where I talk about why I always recommend getting into Machine Learning](https://twitter.com/svpino/status/1302107302330335232?s=20).  
-*Sep 4, 2020*.
-
-* [The one with 10 different projects to get started with Computer Vision](https://twitter.com/svpino/status/1298468656725327872?s=20).  
-*Aug 25, 2020*.
-
-* [The one about pursuing the "right" solution](https://twitter.com/svpino/status/1296185645673656321?s=20).  
-*Aug 19, 2020*.
-
-* [The one about 5 crazy cool Machine Learning projects I've been involved with](https://twitter.com/svpino/status/1295951164450770946?s=20).  
-*Aug 18, 2020*.
-
-* [The one about how I transitioned to the Machine Learning space](https://twitter.com/svpino/status/1294235627857248256?s=20).  
-*Aug 14, 2020*.
-
-* [The one where I go over what a day of a Machine Learning Engineer looks like](https://twitter.com/svpino/status/1293141577540538370?s=20).  
-*Aug 11, 2020*.
 
 
 ## Python
