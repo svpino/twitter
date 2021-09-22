@@ -56,7 +56,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20). If you are looking to get a background in math before starting with machine learning, here is all the material you need covering the following topics: _Probabilities & Statistics_, _Linear Algebra_, and _Multivariate Calculus_. More than enough to get started.
 
-## Machine Learning Techniques
+## Machine learning techniques
 
 * [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
 
