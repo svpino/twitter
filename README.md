@@ -52,7 +52,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20)
 
-* [Autoencoders](https://twitter.com/svpino/status/1381253209163988998?s=20)
+* [Autoencoders](https://twitter.com/svpino/status/1381253209163988998?s=20). A lot in machine learning is pretty dry and boring, but understanding how autoencoders work feels different. This is a thread about autoencoders, things they can do, and a pretty cool example.
 
 * [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20). I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
 
