@@ -36,8 +36,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [11 key machine learning concepts](https://twitter.com/svpino/status/1342711745475973125?s=20)
 
-* [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20)
-
 * [Takeaways about starting with machine learning](https://twitter.com/svpino/status/1379809571254976516?s=20) — 16 key takeaways about starting a career as a machine learning engineer.
 
 * [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20)
@@ -53,6 +51,10 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [De Méré's Paradox](https://twitter.com/svpino/status/1435890900895473670?s=20). Antoine was born in France back in 1607. Despite not being a nobleman, he called himself "Chevalier De Méré," and spent his days as any other writer and philosopher at the time. But the Chevalier liked gambling, and was obsessed with the probabilities surrounding the game.
 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20). The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
+
+## Mathematics
+
+* [Math is hard, but you shouldn't be scared](https://twitter.com/svpino/status/1343542479845531650?s=20). I told everyone that I didn't care. _"Screw math! I've never been great with it, so I'm not starting with machine learning to fail at the end."_ That was many years ago. Math is still hard, but I don't think you should be scared at all. Here is why.
 
 ## Machine Learning Techniques
 
