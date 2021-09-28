@@ -61,15 +61,15 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 ## Machine learning techniques
 
-* [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — **Active Learning** is an iterative approach to supervised learning that helps when we have a lot of data, but very few labels. This thread is an **overview** of this technique and how it works.
+* [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — Imagine you have a ton of data, but most of it isn't labeled. Even worse: labeling is very expensive. How can we get past this problem? Let's talk about a different—and pretty cool—way to train a machine learning model.
 
-* [Introduction to Siamese Networks](https://twitter.com/svpino/status/1365683368030052355?s=20) — If you've heard about **one/few-shot learning** before but aren't sure exactly what it is, this is a good introduction to it. Specifically, this thread talks about **Siamese Networks** and how they work.
+* [An introduction to Siamese Networks](https://twitter.com/svpino/status/1365683368030052355?s=20) — You want to build a face recognition system for your office, but getting many pictures from your coworkers is not a choice. Also, having to retrain the model for every new employee seems like a burden. How do we solve this?
 
-* [Transfer learning](https://twitter.com/svpino/status/1372532791922069511?s=20) — The ability to reuse the knowledge of one model and adapt it to solve a different problem is one of the most consequential breakthroughs in machine learning. This is a thread explaining Transfer learning and how we can use it in practice.
+* [An introduction to Transfer learning](https://twitter.com/svpino/status/1372532791922069511?s=20) — The ability to reuse the knowledge of one model and adapt it to solve a different problem is one of the most consequential breakthroughs in machine learning. This is a thread explaining Transfer learning and how we can use it in practice.
 
-* [Steps to do Transfer Learning](https://twitter.com/svpino/status/1376543596954984448?s=20) — This is the general approach I follow to do Transfer Learning.
+* [How to implement Transfer Learning](https://twitter.com/svpino/status/1376543596954984448?s=20) — With Transfer Learning you can reuse the knowledge from a different model to kick-start your new model. Practically, this is how you can do transfer learning.
 
-* [Autoencoders](https://twitter.com/svpino/status/1381253209163988998?s=20). A lot in machine learning is pretty dry and boring, but understanding how autoencoders work feels different. This is a thread about autoencoders, things they can do, and a pretty cool example.
+* [An introduction to Autoencoders](https://twitter.com/svpino/status/1381253209163988998?s=20) — A lot in machine learning is pretty dry and boring, but understanding how autoencoders work feels different. This is a thread about autoencoders, things they can do, and a pretty cool example.
 
 
 ## Building a machine learning career
