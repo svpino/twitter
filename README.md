@@ -6,13 +6,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Generalization and neural networks](https://twitter.com/svpino/status/1360462217829900290?s=20) — After going through **convolutions**, this thread explains **how neural networks generalize**. There are many pictures of bunnies involved, but I really liked the storyline to explain things as simply as possible.
 
-* [Metrics and imbalanced classification problems](https://twitter.com/svpino/status/1357302018428256258?s=20) — An explanation about three of the most important metrics we use: **accuracy**, **precision**, and **recall**. More specifically, this thread shows what happens when we focus on the **wrong metric** using an **imbalanced classification problem**.
-
-* [Everything you need to know about the batch size](https://twitter.com/svpino/status/1358286876822679552?s=20) — When using **Gradient Descent**, the **batch size** is one of the most consequential hyperparameters at our disposal. This thread explains everything you need to know about the batch size.
-
-* [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we **split** our datasets into **different subsets** right before running our machine learning algorithms. This thread is an explanation of why we do that. What's the goal of each subset, and how to use them.
-
-* [Splitting your data migh be problematic](https://twitter.com/svpino/status/1377975882179039232?s=20) — Splitting your data by using a percentage may be a problem and you may be giving your models an unfair advantage.
 
 * [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — **Encoding features** from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This thread covers **Label** and **One-Hot encoding**, how they work and how to use them.
  
@@ -21,8 +14,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Baseline models](https://twitter.com/svpino/status/1369975138834395145?s=20) — Before you start building a machine learning model, a good approach to guide your progress is to create 3 **baselines** that will help you understand the problem and where you are headed.
 
 * [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
-
-* [Overfitting to the validation set](https://twitter.com/svpino/status/1371433872869711872?s=20) — Every time you use your validation set, you are slowing overfitting your model to it. Here is an explanation of what happens.
 
 * [Why do we use ReLU in deep learning?](https://twitter.com/svpino/status/1374086498455330819?s=20) — A quick summary of the reasons we prefer to use ReLU as the activation function when using deep learning instead of Sigmoid or TanH. 
 
@@ -56,6 +47,16 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 ## Fundamentals
 
+* [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we split our datasets into different subsets right before running our machine learning algorithms. This is an explanation of why we do that, the goal of each subset, and how to use them.
+
+* [Random splits aren't always a good solution](https://twitter.com/svpino/status/1377975882179039232?s=20) — When we start with machine learning, we learn to split our datasets in testing and training by taking a percentage of the data. Unfortunately, this practice could lead to overestimating the performance of your model.
+
+* [Everything you need to know about the batch size](https://twitter.com/svpino/status/1358286876822679552?s=20) — When using Gradient Descent, the batch size is one of the most consequential hyperparameters at our disposal. This is an explanation about the influence of the batch size.
+
+* [Are you overfitting to the validation set?](https://twitter.com/svpino/status/1371433872869711872?s=20) — You aren't doing yourself any favors if you aren't throwing away your validation data regularly. It's painful, I know, but you are looking for trouble if you don't do it. Let's talk about what happens with your data and your model.
+
+* [Metrics and imbalanced classification problems](https://twitter.com/svpino/status/1357302018428256258?s=20) — I built a model to predict whether you'll be involved in a crash next time you get in a car. And it's 99% accurate! Allow me to show you.
+ 
 * [Cheating with a data leakage](https://twitter.com/svpino/status/1425019257449025536?s=20) — Can you identify the problem with this 3-step approach? 1. Prepare a dataset, 2. Split it (train, validation, and test sets), 3. Build a model. The issue is subtle, and unfortunately, many people build machine learning models this way. Let's talk about this.
 
 ## Machine learning techniques
