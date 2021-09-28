@@ -80,9 +80,11 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [A step-by-step guide to start with machine learning](https://twitter.com/svpino/status/1304630248697483265?s=20) — A step-by-step guide to getting started with machine learning for beginners looking to get on it right away.
 
-* [10 most frequently asked questions to get into machine learning](https://twitter.com/svpino/status/1302829097106767872?s=20). I always get asked a ton of questions about machine learning. I decided to build a short FAQ to help you move forward. Here are my answers to the 10 most frequently asked questions about getting into machine learning.
+* [10 most frequently asked questions to get into machine learning](https://twitter.com/svpino/status/1302829097106767872?s=20) — I always get asked a ton of questions about machine learning. I decided to build a short FAQ to help you move forward. Here are my answers to the 10 most frequently asked questions about getting into machine learning.
 
-* [The one with the courses I took to get my Masters in Computer Science with a Machine Learning Specialization](https://twitter.com/svpino/status/1303535479929933825?s=20) — It took me 4 years to complete my Master's while I was working full time (2015 - 2019). It's a Master of Science in Computer Science with a Machine Learning Specialization. Here are all courses I had to complete to finish the program.
+* [You always need a combination of theory and practice](https://twitter.com/svpino/status/1442806742266560519?s=20) — _"You can't use an algorithm unless you understand how it works."_ That's what many people say. But I don't believe it. Here is how you can build expertise.
+
+* [My Masters in Computer Science with a Machine Learning Specialization](https://twitter.com/svpino/status/1303535479929933825?s=20) — It took me 4 years to complete my Master's while I was working full time (2015 - 2019). It's a Master of Science in Computer Science with a Machine Learning Specialization. Here are all courses I had to complete to finish the program.
 
 
 ## Questions and projects
