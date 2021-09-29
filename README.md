@@ -27,6 +27,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Math resources for machine learning](https://twitter.com/svpino/status/1381478444773609475?s=20) — If you are looking to get a background in math before starting with machine learning, here is all the material you need covering the following topics: _Probabilities & Statistics_, _Linear Algebra_, and _Multivariate Calculus_. More than enough to get started.
 
+* [How much math do you really need?](https://twitter.com/svpino/status/1425744306552377347?s=20) — How much math do you need to know to be a machine learning engineer? Let's talk about how Andrew Ng answers this question.
 
 ## Probabilities and Statistics
 
@@ -52,6 +53,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Everything you need to know about the batch size](https://twitter.com/svpino/status/1358286876822679552?s=20) — When using Gradient Descent, the batch size is one of the most consequential hyperparameters at our disposal. This is an explanation about the influence of the batch size.
 
 * [Are you overfitting to the validation set?](https://twitter.com/svpino/status/1371433872869711872?s=20) — You aren't doing yourself any favors if you aren't throwing away your validation data regularly. It's painful, I know, but you are looking for trouble if you don't do it. Let's talk about what happens with your data and your model.
+
+* [Always split your dataset before transforming the data](https://twitter.com/svpino/status/1426106650335842307?s=20) — You should always split your dataset before transforming the data. A valid concerned is about knowing the true range of a column without looking at all of your data. Let's explore this.
 
 * [Metrics and imbalanced classification problems](https://twitter.com/svpino/status/1357302018428256258?s=20) — I built a model to predict whether you'll be involved in a crash next time you get in a car. And it's 99% accurate! Allow me to show you.
  
