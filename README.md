@@ -59,6 +59,10 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
  
 * [Cheating with a data leakage](https://twitter.com/svpino/status/1425019257449025536?s=20) — Can you identify the problem with this 3-step approach? 1. Prepare a dataset, 2. Split it (train, validation, and test sets), 3. Build a model. The issue is subtle, and unfortunately, many people build machine learning models this way. Let's talk about this.
 
+## Dimensionality reduction
+
+* [An example of dimensionality reduction](https://twitter.com/svpino/status/1443168842335850497?s=20) — This is a great example of dimensionality reduction using single value decomposition on a dataset of images. We can go from 64 dimensions down to 5 dimensions and still recognize the images!
+
 ## Machine learning techniques
 
 * [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — Imagine you have a ton of data, but most of it isn't labeled. Even worse: labeling is very expensive. How can we get past this problem? Let's talk about a different—and pretty cool—way to train a machine learning model.
