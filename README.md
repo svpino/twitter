@@ -2,12 +2,7 @@
 Here is a compilation of the most relevant content I've posted on Twitter since the end of July 2020. Most of these are threads where I've tried to convey as much actionable and helpful ideas as possible. Some are just individual thoughts in the form of tweets. I pushed those to the bottom of the list.
 
 
-* [An intuitive look into convolutions](https://twitter.com/svpino/status/1359107240519749637?s=20) — My attempt to introduce how **Convolutional Neural Networks** work. Well, in reality, this is specifically about **convolutions**. I love the idea of finding ways to relate convolutions to software development to make it more intuitive.
 
-* [Generalization and neural networks](https://twitter.com/svpino/status/1360462217829900290?s=20) — After going through **convolutions**, this thread explains **how neural networks generalize**. There are many pictures of bunnies involved, but I really liked the storyline to explain things as simply as possible.
-
-
-* [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — **Encoding features** from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This thread covers **Label** and **One-Hot encoding**, how they work and how to use them.
  
 * [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model as we progressively increase the dataset size. This will allow us to determine whether we are overfitting or underfitting.
 
@@ -16,8 +11,6 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
 
 * [Why do we use ReLU in deep learning?](https://twitter.com/svpino/status/1374086498455330819?s=20) — A quick summary of the reasons we prefer to use ReLU as the activation function when using deep learning instead of Sigmoid or TanH. 
-
-* [A few ideas you can solve using KNN](https://twitter.com/svpino/status/1375813074054230016?s=20) — KNN (K-Nearest Neighbors) is a great way for software developers to start with machine learning. This thread lists five different areas where KNN could help.
 
 * [25 True|False questions](https://twitter.com/svpino/status/1378340070709690372?s=20)
 
@@ -45,6 +38,11 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20) — The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
 
+## Feature engineering
+
+* [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — Encoding features from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This is an explanation of Label and One-Hot encoding, how they work and how to use them.
+
+
 ## Fundamentals
 
 * [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we split our datasets into different subsets right before running our machine learning algorithms. This is an explanation of why we do that, the goal of each subset, and how to use them.
@@ -59,7 +57,12 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
  
 * [Cheating with a data leakage](https://twitter.com/svpino/status/1425019257449025536?s=20) — Can you identify the problem with this 3-step approach? 1. Prepare a dataset, 2. Split it (train, validation, and test sets), 3. Build a model. The issue is subtle, and unfortunately, many people build machine learning models this way. Let's talk about this.
 
-## Dimensionality reduction
+* [Generalization and neural networks](https://twitter.com/svpino/status/1360462217829900290?s=20) — It takes a single picture of an animal for my son to start recognizing it everywhere. Neural networks aren't as good as we are, but they are good enough to be competitive. This is an explanation of how neural networks generalize.
+
+* [An intuitive look into convolutions](https://twitter.com/svpino/status/1359107240519749637?s=20) — How the heck can a computer recognize what's in an image?
+This is an introduction about convolutions, a key part of how Convolutional Neural Networks work.
+
+* [Using PCA to remove a picture's background](https://twitter.com/svpino/status/1377255703933501445?s=20) — A really useful machine learning algorithm is PCA. You can do cool things with it, like completely removing the background of a picture (robust PCA).
 
 * [An example of dimensionality reduction](https://twitter.com/svpino/status/1443168842335850497?s=20) — This is a great example of dimensionality reduction using single value decomposition on a dataset of images. We can go from 64 dimensions down to 5 dimensions and still recognize the images!
 
@@ -114,7 +117,10 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
- 
+
+* [A few problems you can solve using KNN](https://twitter.com/svpino/status/1375813074054230016?s=20) — The perfect way to get into machine learning is to find an algorithm that improves your work right away without much drama. For software developers, KNN (K-Nearest Neighbors) is a perfect introduction. Here are five different problems where KNN could help.
+
+
 ----
 ----
 ----
