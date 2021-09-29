@@ -109,6 +109,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 ## Machine learning in the real world
 
+* [Questions when building a machine learning project](https://twitter.com/svpino/status/1402188796066635778?s=20) — There are 4 stages in the machine learning project lifecycle. Here are 29 questions that you should ask at each step of the process.
+
 * [A classification problem that turns ugly quickly](https://twitter.com/svpino/status/1369673069955080204?s=20) — Let's imagine a system where you submit a bunch of pictures of an object, and it recommends a price range in which the object could be sold. To identify the object, we could build a classification model. It turns out, however, that things can get complex really quick.
 
 * [A day in the life of a Machine Learning Engineer](https://twitter.com/svpino/status/1293141577540538370?s=20) — Do you want to know what a day in the life of a Machine Learning Engineer looks like? I'm not gonna make this boring and talk about biking, coffee, or hipster stuff. Instead, I'll list some of the things that you may find yourself doing.
