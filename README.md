@@ -43,6 +43,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — Encoding features from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This is an explanation of Label and One-Hot encoding, how they work and how to use them.
 
+* [Do you really need feature engineering?](https://twitter.com/svpino/status/1440994508011982849) — I've heard multiple times that you don't need to do any feature engineering or selection whenever you are using neural networks. This is not true. Yes, neural networks can extract patterns and ignore unnecessary features from the dataset, but this is usually not enough.
 
 ## Fundamentals
 
