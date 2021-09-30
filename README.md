@@ -4,7 +4,7 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 
  
-* [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model as we progressively increase the dataset size. This will allow us to determine whether we are overfitting or underfitting.
+
 
 * [Baseline models](https://twitter.com/svpino/status/1369975138834395145?s=20) — Before you start building a machine learning model, a good approach to guide your progress is to create 3 **baselines** that will help you understand the problem and where you are headed.
 
@@ -56,6 +56,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 * [Are you overfitting to the validation set?](https://twitter.com/svpino/status/1371433872869711872?s=20) — You aren't doing yourself any favors if you aren't throwing away your validation data regularly. It's painful, I know, but you are looking for trouble if you don't do it. Let's talk about what happens with your data and your model.
 
 * [Always split your dataset before transforming the data](https://twitter.com/svpino/status/1426106650335842307?s=20) — You should always split your dataset before transforming the data. A valid concerned is about knowing the true range of a column without looking at all of your data. Let's explore this.
+
+* [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model as we progressively increase the dataset size. This will allow us to determine whether we are overfitting or underfitting.
 
 * [Metrics and imbalanced classification problems](https://twitter.com/svpino/status/1357302018428256258?s=20) — I built a model to predict whether you'll be involved in a crash next time you get in a car. And it's 99% accurate! Allow me to show you.
  
