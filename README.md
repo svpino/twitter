@@ -101,8 +101,10 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [My Masters in Computer Science with a Machine Learning Specialization](https://twitter.com/svpino/status/1303535479929933825?s=20) — It took me 4 years to complete my Master's while I was working full time (2015 - 2019). It's a Master of Science in Computer Science with a Machine Learning Specialization. Here are all courses I had to complete to finish the program.
 
+* [What comes first? Theory or practice?](https://twitter.com/svpino/status/1442806742266560519?s=20) — "You can't use an algorithm unless you understand how it works." That's what many people say. But I don't believe it. This is how you can build expertise.
 
-## Questions and projects
+
+## Exercises and projects
 
 * [10 Computer Vision project ideas](https://twitter.com/svpino/status/1298468656725327872?s=20) — Do you wanna start getting your hands dirty with machine learning and Computer Vision? Here you have 10 projects to start practicing and improve your portfolio.
 
