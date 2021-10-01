@@ -123,6 +123,7 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [A day in the life of a Machine Learning Engineer](https://twitter.com/svpino/status/1293141577540538370?s=20) — Do you want to know what a day in the life of a Machine Learning Engineer looks like? I'm not gonna make this boring and talk about biking, coffee, or hipster stuff. Instead, I'll list some of the things that you may find yourself doing.
 
+* [A process to improve your data](https://twitter.com/svpino/status/1443893872665432091) — It turns out that good data is hard to come by. Even datasets reviewed and used for years are riddled with mistakes that conspire against your work. Here are some tips to improve your data.
 
 ## Examples
 
