@@ -51,6 +51,8 @@ Here is a compilation of the most relevant content I've posted on Twitter since 
 
 * [Random splits aren't always a good solution](https://twitter.com/svpino/status/1377975882179039232?s=20) — When we start with machine learning, we learn to split our datasets in testing and training by taking a percentage of the data. Unfortunately, this practice could lead to overestimating the performance of your model.
 
+* [Don't look at your test set](https://twitter.com/svpino/status/1445343189108502533?s=20) — When building a machine learning model, I want my test set to represent real world data as closely as possible. The best strategy I've found is to split the test set aside *before* I even look at the data. Here is why this helps.
+
 * [Everything you need to know about the batch size](https://twitter.com/svpino/status/1358286876822679552?s=20) — When using Gradient Descent, the batch size is one of the most consequential hyperparameters at our disposal. This is an explanation about the influence of the batch size.
 
 * [Are you overfitting to the validation set?](https://twitter.com/svpino/status/1371433872869711872?s=20) — You aren't doing yourself any favors if you aren't throwing away your validation data regularly. It's painful, I know, but you are looking for trouble if you don't do it. Let's talk about what happens with your data and your model.
