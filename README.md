@@ -127,6 +127,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [A process to improve your data](https://twitter.com/svpino/status/1443893872665432091) — It turns out that good data is hard to come by. Even datasets reviewed and used for years are riddled with mistakes that conspire against your work. Here are some tips to improve your data.
 
+* [How much data do you need?](https://twitter.com/svpino/status/1418496542885957634?s=20) — Software developers suck at estimating time. Machine learning engineers at estimating how much data they need. People built an image classification using 500 images and now think that every problem needs the same. It doesn't work like that.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
