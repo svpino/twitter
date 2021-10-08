@@ -91,7 +91,7 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [This is why you want to get into machine learning](https://twitter.com/svpino/status/1302107301424369664?s=20) — One of the best steps I’ve taken as a Software Engineer has been to get into machine learning. If you are looking for what's next in your career, here are some pointers to get you started
 
-* [Answering some of your questions](https://twitter.com/svpino/status/1446430586281906218?s=20) — I get asked about machine learning all the time. Here are my answers to some of these questions.
+* [Answering some of your questions](https://twitter.com/svpino/status/1446430586281906218?s=20) — Every day I get a ton of questions, most of them centered around building a machine learning career. I thought it was a good idea to collect some of the answers in a single place. Here they are.
 
 * [Takeaways about starting with machine learning](https://twitter.com/svpino/status/1379809571254976516?s=20) — 16 key takeaways about starting a career as a machine learning engineer.
 
