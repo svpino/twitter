@@ -131,6 +131,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [How much data do you need?](https://twitter.com/svpino/status/1418496542885957634?s=20) — Software developers suck at estimating time. Machine learning engineers at estimating how much data they need. People built an image classification using 500 images and now think that every problem needs the same. It doesn't work like that.
 
+* [Training with 100% of the data](https://twitter.com/svpino/status/1447534084494970881?s=20) — Last week I trained a machine learning model using 100% of the data. Then I used the model to predict the labels on the same dataset I used to train it. I'm not kidding. Hear me out.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
