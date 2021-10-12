@@ -95,6 +95,7 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [What comes first? Theory or practice?](https://twitter.com/svpino/status/1442806742266560519?s=20) — "You can't use an algorithm unless you understand how it works." That's what many people say. But I don't believe it. This is how you can build expertise.
 
+* [How did I start with machine learning?](https://twitter.com/svpino/status/1294235627857248256?s=20) — I am not particularly inclined to Math. I do not have a Ph.D. I do not like to read research papers. But I do make a pretty good living working on the Data Science/AI/Machine Learning field. You can also do it. Here is how I got here.
 
 ## Exercises and projects
 
@@ -128,8 +129,6 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 * [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20) — I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
 
 * [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system. This covers the backbone of the process, from data engineering all the way to a retraining pipeline. 
-
-* [How did I start with machine learning?](https://twitter.com/svpino/status/1294235627857248256?s=20) — I am not particularly inclined to Math. I do not have a Ph.D. I do not like to read research papers. But I do make a pretty good living working on the Data Science/AI/Machine Learning field. You can also do it. Here is how I got here.
 
 ## Examples
 
