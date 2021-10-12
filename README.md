@@ -288,49 +288,7 @@ I met Python in 2014, and I've never looked back. It's an incredibly versatile l
 
 
 ## Individual thoughts
-These aren't threads. They are individual tweets that reflect on different technical topics, but I want to keep them separate to avoid drowning the more helpful, fully-fledged content.
 
-* [The one about clean code and the relativity of things](https://twitter.com/svpino/status/1306261567369928704?s=20).  
-*Sep 16, 2020*.
-
-* [The one about the shortcut to improve as a software developer](https://twitter.com/svpino/status/1305527978370228226?s=20).  
-*Sep 14, 2020*.
-
-* [The one about writing code defensively](https://twitter.com/svpino/status/1304936083751198720?s=20).  
-*Sep 12, 2020*.
-
-* [The one about learning while building projects](https://twitter.com/svpino/status/1303048137976590336?s=20).  
-*Sep 7, 2020*.
-
-* [The one where I talk about focusing more on project management and less on estimates](https://twitter.com/svpino/status/1301602613272678400?s=20).  
-*Sep 3, 2020*.
-
-* [The one talking about irrelevant years of experience](https://twitter.com/svpino/status/1301271179064299520?s=20).  
-*Sep 2, 2020*.
-
-* [The one where I talk about project management being the issue with late projects](https://twitter.com/svpino/status/1301100303215816705?s=20).  
-*Sep 2, 2020*.
-
-* [The one about the mandatory step to write good code](https://twitter.com/svpino/status/1300726842337431562?s=20).  
-*Sep 1, 2020*.
-
-* [The one talking about how software is not linear](https://twitter.com/svpino/status/1299663084601081856?s=20).  
-*Aug 29, 2020*.
-
-* [The one talking about code being a means to an end](https://twitter.com/svpino/status/1299088802737205249?s=20).  
-*Aug 27, 2020*.
-
-* [The one about a good way of prioritizing your work](https://twitter.com/svpino/status/1298939546537807878?s=20).  
-*Aug 27, 2020*.
-
-* [The one about your agile process being too complicated](https://twitter.com/svpino/status/1298583470805934080?s=20).  
-*Aug 26, 2020*.
-
-* [The one about what you need to be a leader](https://twitter.com/svpino/status/1298290287798702080?s=20).  
-*Aug 25, 2020*.
-
-* [The one about the importance of solving problems above any titles](https://twitter.com/svpino/status/1298228489871675393?s=20).  
-*Aug 25, 2020*.
 
 * [The one about a question you can ask to determine what to do](https://twitter.com/svpino/status/1298198935811620864?s=20).  
 *Aug 25, 2020*.
