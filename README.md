@@ -349,18 +349,3 @@ I met Python in 2014, and I've never looked back. It's an incredibly versatile l
 
 * [The one about needing people to put models into production](https://twitter.com/svpino/status/1291464017626779648?s=20).  
 *Aug 6, 2020*.
-
-* [The one about not having time because you are writing bad code](https://twitter.com/svpino/status/1291450506729185280?s=20).  
-*Aug 6, 2020*.
-
-* [The one about not needing a Ph.D. or read papers to get into Machine Learning](https://twitter.com/svpino/status/1291352861067149312?s=20).  
-*Aug 6, 2020*.
-
-* [The one about optimizing your career for the long term](https://twitter.com/svpino/status/1291022459517501440?s=20).  
-*Aug 5, 2020*.
-
-* [The one about following the status quo](https://twitter.com/svpino/status/1290706326096576513?s=20).  
-*Aug 4, 2020*.
-
-* [The one about not needing to learn algorithms is a self-fulfilling prophecy](https://twitter.com/svpino/status/1290282768715280386?s=20).  
-*Aug 3, 2020*.
