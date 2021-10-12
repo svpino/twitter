@@ -1,25 +1,5 @@
 # The Twitter Archive
-Here is a compilation of the most relevant content I've posted on Twitter since the end of July 2020. Most of these are threads where I've tried to convey as much actionable and helpful ideas as possible. Some are just individual thoughts in the form of tweets. I pushed those to the bottom of the list.
-
-
-
- 
-
-
-* [Baseline models](https://twitter.com/svpino/status/1369975138834395145?s=20) — Before you start building a machine learning model, a good approach to guide your progress is to create 3 **baselines** that will help you understand the problem and where you are headed.
-
-* [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
-
-* [Why do we use ReLU in deep learning?](https://twitter.com/svpino/status/1374086498455330819?s=20) — A quick summary of the reasons we prefer to use ReLU as the activation function when using deep learning instead of Sigmoid or TanH. 
-
-* [25 True|False questions](https://twitter.com/svpino/status/1378340070709690372?s=20)
-
-* [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system, so this thread covers the core components of it.
-
-* [11 key machine learning concepts](https://twitter.com/svpino/status/1342711745475973125?s=20)
-
-* [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20). I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
-
+Here is a compilation of the most relevant content I've posted on Twitter.
 
 ## Mathematics
 
@@ -74,6 +54,12 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [An example of dimensionality reduction](https://twitter.com/svpino/status/1443168842335850497?s=20) — This is a great example of dimensionality reduction using single value decomposition on a dataset of images. We can go from 64 dimensions down to 5 dimensions and still recognize the images!
 
+* [Introduction to Dropout](https://twitter.com/svpino/status/1371108331922808832?s=20) — A good way to understand how things work is by breaking them down step by step. We are going to do this here with Dropouts and get to the bottom of what happens when we use them. 
+
+* [Why do we use ReLU in deep learning?](https://twitter.com/svpino/status/1374086498455330819?s=20) — A quick summary of the reasons we prefer to use ReLU as the activation function when using deep learning instead of Sigmoid or TanH. 
+
+* [11 key Supervised Learning concepts](https://twitter.com/svpino/status/1342711745475973125?s=20) — 11 key concepts of Machine Learning. Supervised Learning Edition.
+
 ## Machine learning techniques
 
 * [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — Imagine you have a ton of data, but most of it isn't labeled. Even worse: labeling is very expensive. How can we get past this problem? Let's talk about a different—and pretty cool—way to train a machine learning model.
@@ -116,6 +102,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [20 fundamental questions you need to ace](https://twitter.com/svpino/status/1303907685214154752?s=20) — Here are 20 fundamental questions that you need to ace before getting a machine learning job. Almost every company will ask these to weed out non-prepared candidates. You don't want to show up unless you are comfortable having a discussion about all of these.  
 
+* [25 True/False machine learning questions](https://twitter.com/svpino/status/1378340070709690372?s=20) — 25 True/False machine learning questions that are horrible for interviews but pretty fun to answer. Most importantly: they will make you think and will keep your knowledge sharp. These are mostly beginner-friendly.
+
 * [How to build a portfolio when looking for a job?](https://twitter.com/svpino/status/1440270119247048711?s=20) — One issue I see with people applying for a job: They struggle to highlight their experience in an effective way. If you are trying to get a job as a Data Scientist or Machine Learning Engineer, here is something you can do.
 
 
@@ -133,7 +121,13 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [Using pre-trained models to your advantage](https://twitter.com/svpino/status/1447879878607572992?s=20) — A big part of my work is to build computer vision models to recognize things. It's usually ordinary stuff: An antenna, a fire extinguisher, a bag, a ladder. Here is a trick I use to solve some of these problems.
 
+* [Baseline models](https://twitter.com/svpino/status/1369975138834395145?s=20) — Before you start building a machine learning model, you need a baseline. I find it helpful to think about 3 different levels and tackle them in order. Here is how I do this.
+
 * [Training with 100% of the data](https://twitter.com/svpino/status/1447534084494970881?s=20) — Last week I trained a machine learning model using 100% of the data. Then I used the model to predict the labels on the same dataset I used to train it. I'm not kidding. Hear me out.
+
+* [When the validation loss is lower than the training loss](https://twitter.com/svpino/status/1423569964112429060?s=20) — I built a machine learning model, and my validation loss is lower than my training loss. People asked me why. We're used to seeing the opposite, so this is definitely suspicious. Is this really a problem?
+
+* [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system. This covers the backbone of the process, from data engineering all the way to a retraining pipeline. 
 
 ## Examples
 
