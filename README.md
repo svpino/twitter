@@ -287,25 +287,6 @@ I met Python in 2014, and I've never looked back. It's an incredibly versatile l
 *Aug 7, 2020*.
 
 
-## Less relevant stuff
-I still like these threads. I think they are helpful, but they aren't technical, nor do they fit in any other category. 
-
-* [The one with some strategies to improve the quality of the content you post on Twitter](https://twitter.com/svpino/status/1306070577841659904?s=20).  
-*Sep 15, 2020*. 
-
-* [The one where I share my essay to get into graduate school](https://twitter.com/svpino/status/1304081950060158977?s=20).  
-*Sep 10, 2020*. 
-
-* [The one where I show my setup at home](https://twitter.com/svpino/status/1299547364676579328).  
-*Aug 28, 2020*.
-
-* [The one about standing and speaking up](https://twitter.com/svpino/status/1298831177239887873?s=20).  
-*Aug 26, 2020*.
-
-* [The one about my Twitter strategy to get 8,000+ followers in less than a month](https://twitter.com/svpino/status/1297492897798004736?s=20).  
-*Aug 23, 2020*.  
-
-
 ## Individual thoughts
 These aren't threads. They are individual tweets that reflect on different technical topics, but I want to keep them separate to avoid drowning the more helpful, fully-fledged content.
 
