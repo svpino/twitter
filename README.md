@@ -131,6 +131,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [How much data do you need?](https://twitter.com/svpino/status/1418496542885957634?s=20) — Software developers suck at estimating time. Machine learning engineers at estimating how much data they need. People built an image classification using 500 images and now think that every problem needs the same. It doesn't work like that.
 
+* [Using pre-trained models to your advantage](https://twitter.com/svpino/status/1447879878607572992?s=20) — A big part of my work is to build computer vision models to recognize things. It's usually ordinary stuff: An antenna, a fire extinguisher, a bag, a ladder. Here is a trick I use to solve some of these problems.
+
 * [Training with 100% of the data](https://twitter.com/svpino/status/1447534084494970881?s=20) — Last week I trained a machine learning model using 100% of the data. Then I used the model to predict the labels on the same dataset I used to train it. I'm not kidding. Hear me out.
 
 ## Examples
