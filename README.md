@@ -129,43 +129,20 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system. This covers the backbone of the process, from data engineering all the way to a retraining pipeline. 
 
+* [How did I start with machine learning?](https://twitter.com/svpino/status/1294235627857248256?s=20) — I am not particularly inclined to Math. I do not have a Ph.D. I do not like to read research papers. But I do make a pretty good living working on the Data Science/AI/Machine Learning field. You can also do it. Here is how I got here.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
 
 * [A few problems you can solve using KNN](https://twitter.com/svpino/status/1375813074054230016?s=20) — The perfect way to get into machine learning is to find an algorithm that improves your work right away without much drama. For software developers, KNN (K-Nearest Neighbors) is a perfect introduction. Here are five different problems where KNN could help.
 
+* [5 cool machine learning projects I've been involved with](https://twitter.com/svpino/status/1295951164450770946?s=20) — As a Machine Learning Engineer, I get to be involved in a lot of crazy cool projects. Here are 5 of them.
 
 ----
 ----
 ----
 ----
-## Machine Learning
-A few years ago, I started focusing a big part of my efforts in applied Machine Learning. I'm specifically very interested in making Machine Learning applications work in real life and breaking down the walls that keep others from getting into the field.
-
-* [The one about the problem that kicked off my interest in Machine Learning and changed my career](https://twitter.com/svpino/status/1308987528511401985?s=20). 
-*Sep 23, 2020*.
-
-* [The one where I mention that Machine Learning is usually not the right approach](https://twitter.com/svpino/status/1305891627248963584?s=20).  
-*Sep 15, 2020*.
-
-* [The one about understanding when we solved a Machine Learning problem](https://twitter.com/svpino/status/1304268407039315969?s=20).  
-*Sep 10, 2020*.
-
-* [The one with 6 high-profile projects that show algorithm bias](https://twitter.com/svpino/status/1303147115779108875?s=20).  
-*Sep 7, 2020*.
-
-* [The one about pursuing the "right" solution](https://twitter.com/svpino/status/1296185645673656321?s=20).  
-*Aug 19, 2020*.
-
-* [The one about 5 crazy cool Machine Learning projects I've been involved with](https://twitter.com/svpino/status/1295951164450770946?s=20).  
-*Aug 18, 2020*.
-
-* [The one about how I transitioned to the Machine Learning space](https://twitter.com/svpino/status/1294235627857248256?s=20).  
-*Aug 14, 2020*.
-
-
-
 
 ## Software Engineering
 Most of my writing revolves around general topics related to Software Engineering. Although there's a ton of technical stuff here, most of these aims to offer a more holistic view of the industry, and what I think matters to software developers.
