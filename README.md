@@ -132,6 +132,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [The backbone of a machine learning system](https://twitter.com/svpino/status/1379426242957438978?s=20) — There are a lot of moving pieces on a machine learning system. This covers the backbone of the process, from data engineering all the way to a retraining pipeline. 
 
+* [Machine learning pipelines](https://twitter.com/svpino/status/1451503779623354370?s=20) — What's a machine learning pipeline? Well, it turns out that many different things classify as "machine learning pipelines." Here are five of the different "pipelines" you should be aware of.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
