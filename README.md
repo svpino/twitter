@@ -19,6 +19,10 @@ Here is a compilation of the most relevant content I've posted on Twitter.
 
 * [An introduction to Bayes' Theorem](https://twitter.com/svpino/status/1438789975227699200?s=20) — The doctor tested me, and I came back positive for a disease that infects 1 of every 1,000 people. The test comes back positive 99% of the time if the person has the disease. About 2% of uninfected patients also come back positive. Do I have the disease?
 
+## Algorithms
+
+* [Greedy algorithms](https://twitter.com/svpino/status/1450416608552308740?s=20) — One of the most useful things you can learn: Greedy algorithms, how they work, and how to solve problems using them. Here is why they are fundamental.
+
 ## Feature engineering
 
 * [An introduction to Label and One-Hot encoding](https://twitter.com/svpino/status/1364923419922493444?s=20) — Encoding features from a dataset is a very common transformation that data scientists have to do before running machine learning algorithms. This is an explanation of Label and One-Hot encoding, how they work and how to use them.
