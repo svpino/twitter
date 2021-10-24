@@ -103,6 +103,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [How did I start with machine learning?](https://twitter.com/svpino/status/1294235627857248256?s=20) — I am not particularly inclined to Math. I do not have a Ph.D. I do not like to read research papers. But I do make a pretty good living working on the Data Science/AI/Machine Learning field. You can also do it. Here is how I got here.
 
+* [Thoughts on full-stack machine learning engineers](https://twitter.com/svpino/status/1452228531237306374?s=20) — Full-stack Machine Learning Engineers are becoming one of the hottest commodities out there. Here are some thoughts on what they are and what this means.
+
 ## Exercises and projects
 
 * [10 Computer Vision project ideas](https://twitter.com/svpino/status/1298468656725327872?s=20) — Do you wanna start getting your hands dirty with machine learning and Computer Vision? Here you have 10 projects to start practicing and improve your portfolio.
