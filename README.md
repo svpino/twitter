@@ -140,6 +140,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [Machine learning pipelines](https://twitter.com/svpino/status/1451503779623354370?s=20) — What's a machine learning pipeline? Well, it turns out that many different things classify as "machine learning pipelines." Here are five of the different "pipelines" you should be aware of.
 
+* [On how decoding images messes up predictions](https://twitter.com/svpino/status/1455490290777788418?s=20) — Here is the story of one of those hidden issues with machine learning models that books don't tell you about. This happened in real life.
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
