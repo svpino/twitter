@@ -174,35 +174,14 @@ Most of my writing revolves around general topics related to Software Engineerin
 * [The one about the approach I use to be as effective as possible when working on projects](https://twitter.com/svpino/status/1307178857968087041?s=20).  
 *Sep 18, 2020*.
 
-* [The one with 9 simple ideas to invest in your career](https://twitter.com/svpino/status/1302462025822547968?s=20).  
-*Sep 5, 2020*.
-
-* [The one where I share a letter to ask for a raise](https://twitter.com/svpino/status/1301385935330766849?s=20).  
-*Sep 2, 2020*.
-
 * [The one with a checklist to make sure your website doesn't suck](https://twitter.com/svpino/status/1301022040388808705?s=20).  
 *Sep 1, 2020*.
 
 * [The one about the metrics to measure developers](https://twitter.com/svpino/status/1300612293684756481?s=20).  
 *Aug 31, 2020*.
 
-* [The one where I talk about pricing strategies and charging money for your skills](https://twitter.com/svpino/status/1300269619513626626?s=20).  
-*Aug 30, 2020*.
-
 * [The one about good software design](https://twitter.com/svpino/status/1299943292793163776?s=20).  
 *Aug 29, 2020*.
-
-* [The one about reading your employment contract](https://twitter.com/svpino/status/1299693311658283009?s=20).  
-*Aug 29, 2020*.
-
-* [The one talking about two types of developers](https://twitter.com/svpino/status/1299188730729828352?s=20).  
-*Aug 27, 2020*.
-
-* [The one with the real conversation with the person that wants to grow their career](https://twitter.com/svpino/status/1298972475523567616?s=20).  
-*Aug 27, 2020*.
-
-* [The one about adding more people to a project](https://twitter.com/svpino/status/1298651526584569856?s=20).  
-*Aug 26, 2020*.
 
 * [The one about performance optimizations for computing at large scales](https://twitter.com/svpino/status/1298111119819714560?s=20).  
 *Aug 24, 2020*.
@@ -216,16 +195,7 @@ Most of my writing revolves around general topics related to Software Engineerin
 * [The one with the 50 sentences to become an amazing developer](https://twitter.com/svpino/status/1294494778399301632?s=20).  
 *Aug 15, 2020*.
 
-* [The one about evaluating if you are happy with your current job](https://twitter.com/svpino/status/1294016182450823169?s=20).  
-*Aug 13, 2020*.
-
-* [The one where I talk about all the problems of TDD](https://twitter.com/svpino/status/1293890835252236290?s=20).  
-*Aug 13, 2020*.
-
 * [The one where I talk about how to become a successful Software Engineer](https://twitter.com/svpino/status/1293680762106118144?s=20).  
-*Aug 12, 2020*.
-
-* [The one about splitting your time](https://twitter.com/svpino/status/1293511760323006464?s=20).  
 *Aug 12, 2020*.
 
 * [The one with some of the skills and tools that let me do my job](https://twitter.com/svpino/status/1293141584796700672).  
