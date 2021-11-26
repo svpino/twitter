@@ -54,7 +54,7 @@ Here is a compilation of the most relevant content I've posted on Twitter.
 * [An intuitive look into convolutions](https://twitter.com/svpino/status/1359107240519749637?s=20) — How the heck can a computer recognize what's in an image?
 This is an introduction about convolutions, a key part of how Convolutional Neural Networks work.
 
-* [Using PCA to remove a picture's background](https://twitter.com/svpino/status/1377255703933501445?s=20) — A really useful machine learning algorithm is PCA. You can do cool things with it, like completely removing the background of a picture (robust PCA).
+* [Using PCA to remove a picture's background](https://twitter.com/svpino/status/1464217565203419138?s=20) — A really useful machine learning algorithm is PCA. You can do cool things with it, like completely removing the background of a picture (robust PCA).
 
 * [An example of dimensionality reduction](https://twitter.com/svpino/status/1443168842335850497?s=20) — This is a great example of dimensionality reduction using single value decomposition on a dataset of images. We can go from 64 dimensions down to 5 dimensions and still recognize the images!
 
