@@ -257,9 +257,6 @@ I met Python in 2014, and I've never looked back. It's an incredibly versatile l
 * [The one where I built the most outrageous giveaway selection process](https://twitter.com/svpino/status/1296280410343825408?s=20).  
 *Aug 19, 2020*.
 
-* [The one about pandas](https://twitter.com/svpino/status/1295573742387691520?s=20).  
-*Aug 17, 2020*.
-
 * [The one talking about Python for web development (Django, Flask, and FastAPI.)](https://twitter.com/svpino/status/1295209025156587521?s=20)  
 *Aug 16, 2020*. 
 
