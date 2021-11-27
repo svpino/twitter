@@ -146,6 +146,9 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [On how decoding images messes up predictions](https://twitter.com/svpino/status/1455490290777788418?s=20) — Here is the story of one of those hidden issues with machine learning models that books don't tell you about. This happened in real life.
 
+* [The Stretch Pants approach](https://twitter.com/svpino/status/1439877151889764357?s=20) — When designing a machine learning model, remember the "stretch pants" approach: Don't waste time looking for pants that perfectly match your size. Instead, use large stretch pants that will shrink down to the right size. What does this mean for your model?
+
+
 ## Examples
 
 * [Solving MNIST using a CNN](https://twitter.com/svpino/status/1364539168567746563?s=20) — Explaining a solution line by line is always fun. This thread goes to an excruciating amount of detail through a **Convolutional Neural Network** that solves the **MNIST** problem. An explanation for every single line of code. 
