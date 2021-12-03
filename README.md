@@ -80,6 +80,7 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [An introduction to Autoencoders](https://twitter.com/svpino/status/1381253209163988998?s=20) — A lot in machine learning is pretty dry and boring, but understanding how autoencoders work feels different. This is a thread about autoencoders, things they can do, and a pretty cool example.
 
+* [Test-time augmentation](https://twitter.com/svpino/status/1405450288085995525?s=20) — Here is a simple trick that improves the results of your models. Best part: You'll surprise your team. Guaranteed. Here is an introduction to Test-Time Augmentation, and how you can start using it today.
 
 ## Building a machine learning career
 
