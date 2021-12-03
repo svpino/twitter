@@ -31,6 +31,8 @@ Here is a compilation of the most relevant content I've posted on Twitter.
 
 ## Fundamentals
 
+* [What's machine learning and why should you care?](https://twitter.com/svpino/status/1466029340525621252?s=20) — What is machine learning and why you should care about it? Let me try to convince you.
+
 * [Splitting your datasets](https://twitter.com/svpino/status/1359827674097672195?s=20) — I'm sure you've heard that we split our datasets into different subsets right before running our machine learning algorithms. This is an explanation of why we do that, the goal of each subset, and how to use them.
 
 * [Random splits aren't always a good solution](https://twitter.com/svpino/status/1377975882179039232?s=20) — When we start with machine learning, we learn to split our datasets in testing and training by taking a percentage of the data. Unfortunately, this practice could lead to overestimating the performance of your model.
