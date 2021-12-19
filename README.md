@@ -82,6 +82,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [Test-time augmentation](https://twitter.com/svpino/status/1405450288085995525?s=20) — Here is a simple trick that improves the results of your models. Best part: You'll surprise your team. Guaranteed. Here is an introduction to Test-Time Augmentation, and how you can start using it today.
 
+* [How do you deal with an imbalanced dataset?](https://twitter.com/svpino/status/1412698073541791746?s=20) - 6 different techniques to solve one of the most popular Machine Learning problems (and a question that always comes up during interviews).
+
 ## Building a machine learning career
 
 * [If I were to start building a career in machine learning today](https://twitter.com/svpino/status/1457679475504713728?s=20) — If I were to start building a career in machine learning today, I'd focus in Python and learning how to build software. I'd take my time here and avoid rushing into the "machine learning" specific stuff. Something interesting will happen.
