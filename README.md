@@ -43,6 +43,8 @@ Here is a compilation of the most relevant content I've posted on Twitter.
 
 * [Are you overfitting to the validation set?](https://twitter.com/svpino/status/1371433872869711872?s=20) — You aren't doing yourself any favors if you aren't throwing away your validation data regularly. It's painful, I know, but you are looking for trouble if you don't do it. Let's talk about what happens with your data and your model.
 
+* [Is your model overfitting or underfitting?](https://twitter.com/svpino/status/1472914695132569603?s=20) — A quick mental model to help identify if your model is suffering from overfitting or underfitting. 
+
 * [Always split your dataset before transforming the data](https://twitter.com/svpino/status/1426106650335842307?s=20) — You should always split your dataset before transforming the data. A valid concerned is about knowing the true range of a column without looking at all of your data. Let's explore this.
 
 * [The importance of learning curves](https://twitter.com/svpino/status/1369278050970525707?s=20) — Learning curves are a popular way to understand your data and your model. An underrated technique is to display the error of the model as we progressively increase the dataset size. This will allow us to determine whether we are overfitting or underfitting.
