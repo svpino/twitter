@@ -70,6 +70,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 * [The Curse of Dimensionality](https://twitter.com/svpino/status/1460578810823417857?s=20) — The amount of data needed to extract any relevant information increases exponentially with the number of features in your dataset. This is the Curse of Dimensionality. In English: "More features is not necessarily a good thing." But of course, it's not that simple.
 
+* [Sensitivity and Specificity](https://twitter.com/svpino/status/1473639471019008005?s=20) - A short introduction to Sensitivity and Specificity.
+
 ## Machine learning techniques
 
 * [An overview of Active Learning](https://twitter.com/svpino/status/1365307434856820736?s=20) — Imagine you have a ton of data, but most of it isn't labeled. Even worse: labeling is very expensive. How can we get past this problem? Let's talk about a different—and pretty cool—way to train a machine learning model.
