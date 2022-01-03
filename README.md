@@ -90,6 +90,8 @@ This is an introduction about convolutions, a key part of how Convolutional Neur
 
 ## Building a machine learning career
 
+* [How can you get hired?](https://twitter.com/svpino/status/1477988141470347268?s=20) — How can you get hired as a data scientist or machine learning engineer? Getting that first job usually sucks. I've thought about this a lot, and here is the way I think about it.
+
 * [If I were to start building a career in machine learning today](https://twitter.com/svpino/status/1457679475504713728?s=20) — If I were to start building a career in machine learning today, I'd focus in Python and learning how to build software. I'd take my time here and avoid rushing into the "machine learning" specific stuff. Something interesting will happen.
 
 * [This is why you want to get into machine learning](https://twitter.com/svpino/status/1302107301424369664?s=20) — One of the best steps I’ve taken as a Software Engineer has been to get into machine learning. If you are looking for what's next in your career, here are some pointers to get you started
